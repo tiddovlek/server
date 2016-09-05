@@ -1,0 +1,5746 @@
+Alex command: pickup 4151 1
+Alex command: pickup 6585 1
+Alex command: pickup 6570 1
+Alex command: players
+Alex command: update 0
+Alex command: master
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: ::players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: xteleto test
+Alex command: mpos
+Alex command: mypos
+Alex command: players
+Alex command: ipban
+Alex command: players
+Alex command: ipban syipkpker2
+Alex command: ipban syipkpker9
+Alex command: players
+Alex command: players
+Alex command: npc 50
+Alex command: update 0
+Alex command: open
+Alex command: players
+Alex command: ipban syipkpker6
+Alex command: ipban syipkpker6
+Alex command: ipban syipkpker1
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: pickup 861 1
+Alex command: pickup 892 1
+Alex command: pickup 892 1
+Alex command: pickup 892 333
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: playera
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: pickup 6818 1
+Alex command: npc 
+Alex command: npc 1
+Alex command: players
+Alex command: players
+Alex command: update 0
+Alex command: emote 1925
+Alex command: emote 3140
+Alex command: emote 3145
+Alex command: emote 2761
+Alex command: emote 2756
+Alex command: emote 2763
+Alex command: emote 2062
+Alex command: emote 708
+Alex command: emote 1658
+Alex command: emote 1668
+Alex command: emote 668
+Alex command: emote 1665
+Alex command: emote 1658
+Alex command: gfx 380
+Alex command: gfx 370
+Alex command: gfx 363
+Alex command: gfx 364
+Alex command: gfx 367
+Alex command: npc 1
+Alex command: players
+Alex command: upate 60
+Alex command: update 10
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: players
+Alex command: xteleto lets havesex
+Alex command: players
+Alex command: players
+Alex command: pickup 555 1000000
+Alex command: pickup 555 55345
+Alex command: pickup 560 455
+Alex command: pickup 557 656665
+Alex command: players
+Alex command: pickup 4716 1
+Alex command: pickup 4718 1
+Alex command: pickup 4721 1
+Alex command: pickup 4722 1
+Alex command: bank
+Alex command: pickup 6585 1
+Alex command: pickup 6737 1
+Alex command: pickup 7462 1
+Alex command: pickup 995 4444
+Alex command: pickup 0995 88888888
+Alex command: pickup ::pickup 6524 1
+Alex command: pickup 6524 1
+Alex command: players
+Alex command: players
+Alex command: bank
+Alex command: pickup 392 999999999
+Alex command: bank
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: noclip
+Alex command: noclip
+Alex command: players
+Alex command: noclip
+Alex command: npc 2745
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: xteletome Stoned
+Alex command: bank
+Alex command: xteleto Apples
+Alex command: xteletome Stoned
+Alex command: players
+Alex command: players
+Alex command: bank
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: pnpc 1152
+Alex command: pnpc 2024
+Alex command: update 10
+Alex command: npc 024
+Alex command: npc 2024
+Alex command: players
+Alex command: npc 1
+Alex command: npc 1
+Alex command: gfx 432
+Alex command: update 0
+Alex command: npc 2745
+Alex command: npc 50
+Alex command: emote 2820
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: tele 3434 3434
+Alex command: xteleto killaz
+Alex command: noclip
+Alex command: pickup 0995 5555555
+Alex command: pickup 6531 1
+Alex command: pickup 6541 1
+Alex command: pickup 6538 1
+Alex command: pickup 6537 1
+Alex command: players
+Alex command: pickup 6527 1
+Alex command: pickup 6529 1
+Alex command: pickup 6536 1
+Alex command: pickup 6524 1
+Alex command: pickup 3140 1
+Alex command: pickup 1434 1
+Alex command: players
+Alex command: tele 2765 3231
+Alex command: noclip
+Alex command: tele 3300 9825
+Alex command: tele 2861 3165
+Alex command: noclip
+Alex command: makeobj 2472
+Alex command: noclip
+Alex command: emote 1500
+Alex command: emote 1501
+Alex command: pnpc 455
+Alex command: emote 1501
+Alex command: players
+Alex command: noclip
+Alex command: players
+Alex command: players
+Alex command: bank
+Alex command: bank
+Alex command: players
+Alex command: retart
+Alex command: players
+Alex command: players
+Alex command: pnpc 2745
+Alex command: pnpc 2745
+Alex command: players
+Alex command: update 0
+Alex command: players
+Alex command: pnpc 50
+Alex command: unpc
+Alex command: players
+Respray command: players
+Respray command: pickup 1213 1
+Respray command: pickup 1213 1
+Respray command: pickup 1213 1
+Respray command: pickup 1213 1
+Respray command: pickup 1213 1
+Respray command: pickup 4151 1
+Respray command: players
+Respray command: pickup 3006
+Respray command: pickup 2480 1
+Respray command: pickup 3220 1
+Respray command: pickup 6098
+Respray command: pickup 6096 1
+Respray command: pickup 5581 1
+Respray command: players
+Respray command: players
+Respray command: players
+Alex command: update 10
+Alex command: pickup 557 666666
+Alex command: pickup 557 666
+Alex command: pickup 560 554554
+Alex command: pickup 6524 1
+Alex command: pickup 6524 1
+Alex command: pickup 6524 1
+Alex command: players
+Alex command: pickup 5555 111111111111111111111
+Alex command: pickup 555 1111111111
+Alex command: pickup 560 11111111111
+Alex command: pickup 560 999999999
+Alex command: pickup 565 9999999999
+Alex command: pickup 565 999999999
+Respray command: pickup 6524 1
+Respray command: pickup 555 99999999
+Respray command: pickup 560 99999999
+Respray command: pickup 565 999999999
+Respray command: kick pokerpk
+Alex command: ipban
+Alex command: ban pokerk
+Alex command: banuser
+Alex command: banuser pokerpk
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: message SERVER RESTARTATION!
+Alex command: message READY????????????????????????????????????????????
+Alex command: update 10
+Alex command: message RESTARTATION
+Alex command: players
+Alex command: message UPDATE: LOWERING DEFENCE BONUSES!
+Alex command: players
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: ipban 
+Respray command: player
+Respray command: players
+Respray command: players
+Respray command: cheap nigga
+Respray command: players
+Respray command: pickup 1213 1
+Respray command: players
+Alex command: players
+Alex command: update 10
+Alex command: players
+Alex command: players
+Respray command: players
+Respray command: picup 3121
+Respray command: pickup 3121 1
+Respray command: players
+Respray command: pickup 6890 1
+Respray command: PLAYERAS
+Respray command: PLAYERS
+Respray command: players
+Alex command: update 5
+Alex command: players
+Alex command: pickup 3101 1
+Respray command: pickup 3102 1
+Respray command: pickup 3102 1
+Respray command: pickup 3101 1
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: pickup 3101 1
+Respray command: players
+Alex command: players
+Alex command: players
+Alex command: tele 3210 3424
+Alex command: message ADDING VARROCK
+Alex command: update 10
+Alex command: players
+Alex command: bank
+Alex command: bank
+Alex command: players
+Alex command: tele 2964 3378
+Alex command: tele 3213 3400
+Alex command: players
+Alex command: noclip
+Alex command: npc 496
+Alex command: players
+Alex command: noclip
+Alex command: player
+Alex command: players
+Alex command: players
+Alex command: gfx 504
+Alex command: gfx 503
+Alex command: gfx 504
+Alex command: gfx 581
+Alex command: gfx 524
+Alex command: gfx 454
+Alex command: gfx 453
+Alex command: gfx 431
+Alex command: gfc 430
+Alex command: gfx 430
+Alex command: gfx 437
+Alex command: gfx 427
+Alex command: gfx 429
+Alex command: gfx 49
+Alex command: gfx 409
+Alex command: npc 10
+Alex command: gfx 197
+Alex command: gfx 198
+Alex command: gfx 194
+Alex command: gx 412
+Alex command: gfx 409
+Alex command: npc 1
+Alex command: pickup 5698 1
+Alex command: bank
+Alex command: bank
+Alex command: npc 1
+Alex command: npc 1
+Alex command: bank
+Alex command: npc 50
+Alex command: gfx 88
+Alex command: gfx 87
+Alex command: gfx 89
+Alex command: noclip
+Alex command: noclip
+Alex command: npc 1
+Alex command: npc 10
+Alex command: pickup 3101 1
+Alex command: noclip
+Alex command: tele 3434 3434
+Alex command: xteletome simpdawg
+Alex command: xteleto Iyr
+Alex command: xteletome simpdawg
+Alex command: players
+Respray command: pickup 3101 1
+Respray command: pickup 3101 1
+Respray command: players
+Respray command: pickup 555 1
+Respray command: pickup 555 6666666
+Respray command: pickup 560 5565
+Respray command: pickup 560 999999
+Respray command: pickup 565 6565445
+Respray command: players
+Respray command: gfx 369
+Alex command: tele 3434 3434
+Alex command: gfx 343
+Alex command: gfx 539
+Alex command: gfx 538
+Alex command: gfx 540
+Alex command: update 5
+Alex command: players
+Respray command: pickup 555 55545454
+Respray command: pickup 5698 1
+Respray command: gfx 366
+Alex command: gfx 367
+Alex command: gfx 538
+Alex command: gfx 367
+Alex command: gfx 366
+Alex command: gfx 368
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: update 1
+Alex command: message Sup All.
+Alex command: message So.. Umm. I'm restarting in 10 seconds.
+Alex command: update 10
+Alex command: message Yah....
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: players
+Respray command: players
+Alex command: message SUP ALLL
+Alex command: message QUICK SERVER CHECK SO YAH 
+Alex command: message DON't THINK ITS GONNA B OFF ITS JUST A CHECKUP
+Alex command: update 2
+Respray command: pickup 560 55555
+Respray command: pickup 560 5555
+Respray command: pickup 557 7777
+Respray command: platers
+Respray command: players
+Alex command: xteleto Zoom
+Alex command: bank
+Alex command: pickup 6818 1
+Alex command: pnpc 2745
+Alex command: pnpc 2
+Alex command: pnpc 7
+Alex command: pnpc 2641
+Alex command: pnpc 50
+Alex command: unpc
+Alex command: players
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: npc 1455
+Alex command: bank
+Alex command: npc 1459
+Alex command: players
+Alex command: interface 11146
+Alex command: interface 11153
+Alex command: interface 11301
+Alex command: interface 11344
+Alex command: interface 11367
+Alex command: interface 14917
+Alex command: interface 15187
+Alex command: interface 15181
+Alex command: interface 15320
+Alex command: interface 15320
+Alex command: interface 15715
+Alex command: interface 16152
+Alex command: interface 15720
+Alex command: interfce 15721
+Alex command: interface 15712
+Alex command: interface 15711
+Alex command: interface 12412
+Alex command: interface 12853
+Alex command: interface 14210
+Alex command: interface 15102
+Alex command: interface 15100
+Alex command: interface 1502
+Alex command: interface 15104
+Alex command: interface 18179
+Alex command: interface 18164
+Alex command: interface 18321
+Alex command: interface 247
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: interface 3281
+Alex command: interface 3208
+Alex command: interface 11104
+Alex command: interface 12283
+Alex command: interface 12266
+Alex command: interface 12638
+Alex command: interface 12628
+Alex command: interface 15712
+Alex command: interface 15715
+Alex command: players
+Alex command: interface 15715
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: npc 50
+Alex command: xteletome supershocker
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: npc 50
+Alex command: npc 50
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: npc 50
+Alex command: players
+Respray command: pickup 995 999999999
+Respray command: pickup 3101 1
+Respray command: pickup 3101 1
+Alex command: banuser owner
+Alex command: pickup 861 1
+Alex command: pickup 892 9999999
+Alex command: bank
+Alex command: bank
+Alex command: emote 1664
+Alex command: bank
+Alex command: pickup 6818 1
+Alex command: emote 1665
+Alex command: pickup 6818 1
+Alex command: emote 1665
+Alex command: emote 1667
+Alex command: gfx 282
+Alex command: gfx 282
+Alex command: emote 285
+Alex command: gfx 285
+Alex command: gfx 284
+Alex command: emote 283
+Alex command: gfx 283
+Alex command: emote 1667
+Alex command: gfx 282
+Alex command: emote 283
+Alex command: emote 1667
+Alex command: gfx 283
+Alex command: gfx 284
+Alex command: gfx 285
+Alex command: update 5
+Alex command: kick i pk u evr
+Alex command: kickuser
+Alex command: kick i pk u 4 evr
+Alex command: banuser i pk  4 evr
+Alex command: banuser i pk u 4 evr
+Alex command: players
+Alex command: pickup 995 99999999
+Alex command: picckup 3101 1
+Alex command: pickup 3101 1
+Alex command: banuser dg
+Alex command: players
+Alex command: pickup 3101 1
+Alex command: players
+Alex command: players
+Alex command: npc 2745
+Alex command: npc 50
+Alex command: pickup 6818 1
+Alex command: npc 50
+Alex command: bank
+Alex command: pickup 6818 1
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: npc 245
+Alex command: npc 2745
+Alex command: pickup 4151 1
+Alex command: pickup 4153 1
+Alex command: npc 2745
+Alex command: npc 274
+Alex command: j
+Alex command: playersd
+Alex command: update 10
+Alex command: ipban fhdd4d11
+Alex command: fhdd4d13
+Respray command: players
+Alex command: update 10
+Alex command: players
+Alex command: players
+Alex command: master
+Alex command: item 3101 1
+Alex command: pickup 3101 1
+Alex command: pickup 392 9999999
+Alex command: pickup 5698 1
+Alex command: pickup 31011
+Alex command: pickup 3101 1
+Alex command: players
+Alex command: bank
+Alex command: message G'NITE GUYS
+Alex command: message WATCH MAD TV IN AN HR ON FOX!
+Alex command: message WHO GOT CABLE?
+Alex command: message ******************************************
+Alex command: message TIME IS 10:27 PM.
+Alex command: message REPORT ALL BUGS AT THE MAIN WEBSITE:
+Alex command: message AABV2.com.
+Alex command: pickup 392 999999999
+Alex command: master
+Alex command: pickup 3101 1
+Alex command: pickup 4151 1
+Alex command: xteletome chanceman
+Alex command: ipban
+Alex command: ipban roxysurf
+Alex command: pure 888 7
+Alex command: pickup 89999999999999999999 7
+Alex command: pickup5
+Alex command: kick 99def oot
+Alex command: xteleto 99def woot
+Alex command: ipban 99de woot
+Alex command: ipban 99def woot
+Alex command: kick justin pk3r
+Alex command: kick da pur3 str2
+Alex command: kick yoyoman
+Alex command: kick fo0l i o w n 
+Alex command: update 10
+Alex command: kick hayden
+Alex command: kick fo0l i o w n
+Alex command: kick enkooo
+Alex command: kick enkoo
+Alex command: ipban enkoo
+Alex command: kick mag3 strb0w
+Alex command: players
+Alex command: ipban syipkpker5
+Alex command: ipban syipkpker1
+Alex command: ipban syipkpker2
+Alex command: players
+Alex command: bank
+Alex command: update 10
+Alex command: tele 3434 3434
+Alex command: home
+Alex command: xteleto trickyski
+Alex command: ipban blood boobs
+Alex command: players
+Alex command: update 10
+Alex command: pnpc 1552
+Alex command: pnpc 2862
+Alex command: hail
+Alex command: hail
+Alex command: pnpc 2862
+Alex command: pnpc 28623
+Alex command: pnpc 2862
+Alex command: unpc
+Alex command: pnpc 2444
+Alex command: hail
+Alex command: copy santa
+Alex command: unpc
+Alex command: copy 0mg
+Alex command: copy santa
+Alex command: copy0mg
+Alex command: copy owned
+Alex command: copy santa
+Alex command: 0mg
+Alex command: copy 0mg
+Alex command: empty
+Alex command: copy owned
+Alex command: copy 0mg
+Alex command: empty
+Alex command: pickup 0995 999999999
+Alex command: ban
+Alex command: bank
+Alex command: pickup 4718 1
+Alex command: hail
+Alex command: pickup 6522 99999
+Alex command: pickup 837 1
+Alex command: pickup 881 9999
+Alex command: pickup 2577 1
+Alex command: pickup 3842 1
+Alex command: pickup 2491 1
+Alex command: ipban liisa
+Alex command: pickup talk to ima
+Alex command: pickup 2577 2
+Alex command: pickup 2492 1
+Alex command: pickup 3842 1
+Alex command: pickup 837 1
+Alex command: pickup 882 9999
+Alex command: pickup 882 9999
+Alex command: pickup 892 9999
+Alex command: pickup 881 8888
+Alex command: pickup 5698 1
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: kick the vp
+Alex command: message LOWERING KARILS POWERS
+Alex command: update 10
+Alex command: pickup 837 1
+Alex command: pickup 892 999999
+Alex command: pickup 881 999
+Alex command: players
+Alex command: players
+Alex command: pickup 881 999999
+Alex command: pickup 837 1
+Alex command: pickup 3842 1
+Alex command: pickup 2491 1
+Alex command: pickup 2577 1
+Alex command: players
+Alex command: players
+Alex command: pickup 2577 2
+Alex command: pickup 3842 1
+Alex command: pickup 2491 1
+Alex command: pickup 83 1
+Alex command: pickup 837 1
+Alex command: copy 1 wh1p 1
+Alex command: pickup 8371
+Alex command: pickup 837 1
+Alex command: pickup 3101 1
+Alex command: pickup k
+Alex command: ipban zezima
+Alex command: kickuser 1 wh1p 1
+Alex command: kick thundar47
+Alex command: kick 1 wh1p 1
+Alex command: pickup 882 999
+Alex command: pickup 891 9999
+Alex command: pickup 881 9999
+Alex command: pickup 880 1
+Alex command: pickup 880 999
+Alex command: pickup 879 9999
+Alex command: gfx 498
+Alex command: gfx 497
+Alex command: gfx 492
+Alex command: gfx439
+Alex command: gfx 439
+Alex command: gfx 441
+Alex command: pickup 2445 12222
+Alex command: bank
+Alex command: pickup 3842 1
+Alex command: pickup 4745 1
+Alex command: pickup 2503 1
+Alex command: pickup 4759 1
+Alex command: pickup 6733 1
+Alex command: pickup 5698 1
+Alex command: ipban lilkilla2453
+Alex command: ipban yazoomafroo7
+Alex command: ipban cookies
+Alex command: players
+Alex command: update 10
+Alex command: players
+Alex command: players
+Alex command: pickup 6101 1
+Alex command: pickup 6818
+Alex command: pickup 6818 1
+Alex command: bank
+Alex command: bank
+Alex command: pickup 881 99999
+Alex command: bank
+Alex command: bank
+Alex command: pickup 892 9999
+Alex command: pickup 4827 1
+Alex command: pickp 5698 1
+Alex command: pickup 5698 1
+Alex command: pickup 6101 1
+Alex command: pickup 4101 1
+Alex command: pikup 3101 1
+Alex command: pickup 3101 1
+Alex command: pickup 6181 1
+Alex command: update 60
+Alex command: pickup 6587
+Alex command: pickup 2082 1
+Alex command: emote 2082 1
+Alex command: emote 2082
+Alex command: emote 2081
+Alex command: emote 440
+Alex command: emote 441
+Alex command: emote 40
+Alex command: emote 451
+Alex command: emote 452
+Alex command: emote 455
+Alex command: emote 460
+Alex command: emote 401
+Alex command: emote 400
+Alex command: emote 399
+Alex command: emote 398
+Alex command: emote 39
+Alex command: :emote 2323
+Alex command: emote 3157
+Alex command: emote 3156
+Alex command: emote 289
+Alex command: emote 2890
+Alex command: emote 2925
+Alex command: emote 2925
+Alex command: emote 2926
+Alex command: emote 2924
+Alex command: emote 2925
+Alex command: emote 2927
+Alex command: emote 2926
+Alex command: emote 2928
+Alex command: emote 2929
+Alex command: emote 2930
+Alex command: emote 2931
+Alex command: emote 2911
+Alex command: emote 2912
+Alex command: emote 2913
+Alex command: emote 2914
+Alex command: emote 2915
+Alex command: gfx 274
+Alex command: emote 274
+Alex command: emote 2927
+Alex command: emote 2926
+Alex command: gfx 274
+Alex command: emote 2068
+Alex command: gfx 282
+Alex command: emote 283
+Alex command: emote 2082
+Alex command: update 0
+Alex command: pickup ?
+Alex command: pickup 6587 1
+Alex command: pickup 6587 1
+Alex command: pickup 6587 1
+Alex command: pickup 4827 1
+Alex command: pickup 892 99999
+Alex command: pickup 78 999999
+Alex command: pickup 78 99999
+Alex command: bak
+Alex command: bank
+Alex command: update 0
+Alex command: pickup 78 99999
+Alex command: pickup 78 99999
+Alex command: update 60
+Alex command: kill uzpked
+Alex command: pickup 78 99999
+Alex command: pickup 892 99999
+Alex command: pickup 881 9999
+Alex command: players
+Alex command: tele 2846 5085
+Alex command: xteletome Chronic
+Alex command: xteletome Chronic
+Alex command: players
+Alex command: xteletome 33
+Alex command: xteleto Owner love
+Alex command: xteletome 33
+Alex command: pickup 65871
+Alex command: pickup 6587 5
+Alex command: bank
+Alex command: players
+Alex command: players
+Alex command: banuser vengeance1
+Alex command: pnpc 0
+Alex command: pnpc 67
+Alex command: pnpc 226
+Alex command: pnpc 292
+Alex command: pnpc 99
+Alex command: pnpc 87
+Alex command: pnpc 46
+Alex command: players
+Alex command: noclip
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: bootall
+Alex command: plyers
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: players
+Alex command: xteleto Tyler1
+Alex command: players
+Alex command: players
+Alex command: ipban tyler1
+Alex command: bootall
+Alex command: emote 2066
+Alex command: ::gfx 333
+Alex command: gfx 333
+Alex command: pickup 3098
+Alex command: bootall
+Alex command: tele 3434 3434
+Alex command: emote 3102
+Alex command: emote 3100
+Alex command: emote 3102
+Alex command: emote 3101
+Alex command: emote 3103
+Alex command: emote 3104
+Alex command: ::emote 2390
+Alex command: emote 2390
+Alex command: players
+Alex command: players
+Alex command: xteleto xdeathx
+Alex command: ick taren
+Alex command: kickuser taren
+Alex command: kick taren
+Alex command: kick taren
+Alex command: players
+Alex command: bank
+Alex command: xteleto xdeathx
+Alex command: pickup 3098 1
+Alex command: pnpc 250
+Alex command: unpc
+Alex command: pnpc 496
+Alex command: players
+Alex command: pickup 3098
+Alex command: npc 496
+Alex command: npc 964
+Alex command: players
+Alex command: bootall
+Alex command: xteleto Taren
+Alex command: xteleto xdeathx
+Alex command: xteleto lonestar11
+Alex command: xteleto xdeathx
+Alex command: xteletome Taren
+Alex command: xteleto xdeathx
+Alex command: xteletme Taren
+Alex command: xteletome Crazy pke
+Alex command: xteletome Crazy pker
+Alex command: players
+Alex command: bootall
+Alex command: npc 0
+Alex command: npc ::npc 0
+Alex command: npc 0
+Alex command: bootall
+Alex command: npc 0
+Alex command: update 10
+Alex command: bootall
+Alex command: xteleto xdeathx
+Alex command: join lol
+Alex command: join royal pkers
+Alex command: join alex
+Alex command: join royal pkers
+Alex command: joinclan royal pkers
+Alex command: clan sup
+Alex command: clan h,,,,
+Alex command: clan sup
+Alex command: clan hohoho
+Alex command: clan
+Alex command: clan d
+Alex command: royal sup noobs
+Alex command: clan sup noobs
+Alex command: clan any1 here?
+Alex command: clan fuck
+Alex command: update 10
+Alex command: bootall
+Alex command: emote 2925
+Alex command: pickup 560 00
+Alex command: tele 3434 3434
+Alex command: npc 462
+Alex command: npc 461
+Alex command: xteleto xdeathx
+Alex command: gfx 68
+Alex command: gfx 68
+Alex command: gfx 271
+Alex command: gfx 405
+Alex command: gfx 330
+Alex command: gfx 393
+Alex command: gfx 293
+Alex command: bootall
+Alex command: players
+Alex command: tele 5343434434
+Alex command: tele 8888 7555
+Alex command: gfx -1
+Alex command: gfx 238
+Alex command: 307
+Alex command: gfx 307
+Alex command: gfx 338
+Alex command: gfx 339
+Alex command: gfx 603
+Alex command: gfx 589
+Alex command: gfx 587
+Alex command: gfx 582
+Alex command: gfx 590
+Alex command: gfx 591
+Alex command: gfx 592
+Alex command: gfx 592
+Alex command: gfx 575
+Alex command: gfx 560
+Alex command: gfx 452
+Alex command: pickup 4068
+Alex command: message Quick Restart RANGE GLITCH SRRY
+Alex command: update 10
+Alex command: bootall
+Alex command: ipban gir
+Alex command: message First blade dropped - Varrock
+Alex command: npc 0
+Alex command: tele 2902 310
+Alex command: tele 2902 3510
+Alex command: noclip
+Alex command: xteleto vlad
+Alex command: update 10
+Alex command: bootall
+Alex command: gfx 363
+Alex command: gfx 368
+Alex command: gfx 367
+Alex command: gfx 361
+Alex command: gfx 465
+Alex command: update 10
+Alex command: bootall
+Alex command: pickup 686 1
+Alex command: pickup 7675 2
+Alex command: pickup 4158 1
+Alex command: mote 437
+Alex command: emote 437
+Alex command: emote 437
+Alex command: emote 429
+Alex command: emote 419
+Alex command: emote 429
+Alex command: emote 418
+Alex command: emote 401
+Alex command: emote 385
+Alex command: emote 382
+Alex command: emote 3157
+Alex command: emote 2927
+Alex command: gfx 481
+Alex command: emote 2399
+Alex command: emote 2400
+Alex command: emote 2401
+Alex command: emote 2402
+Alex command: emote 2303
+Alex command: emote 1648
+Alex command: bank
+Alex command: bank
+Alex command: pickup 3098 1
+Alex command: u'll find out
+Alex command: bank
+Alex command: pickup 3098 1
+Alex command: pickup 3098 12
+Mr client command: pickup 4158 1
+Alex command: tele 2846 5085
+Alex command: message PK CHAMPIONSHIP ! JOIN NOW MESSAGE ALEX!
+Alex command: xteleto Mr client
+Mr client command: pickup 6737 1
+Mr client command: pickup 560 500
+Mr client command: pickup 565 500
+Mr client command: pickup 555 500
+Alex command: players
+Mr client command: pickup 0555 500
+Mr client command: pickup 560 500
+Mr client command: pickup 565 500
+Mr client command: kick p u r e p j
+Mr client command: kick p u r e  p j
+Mr client command: bootall
+Mr client command: kick p u r e  p j
+Mr client command: kick p u r e  p j
+Mr client command: kick fear figment
+Mr client command: kick fear figment
+Mr client command: pickup 0555 500
+Mr client command: pickup 560 500
+Mr client command: pickup 557 500
+Mr client command: yell soi soi
+Mr client command: message o.o
+Mr client command: spam yoooo
+Mr client command: xd
+Mr client command: shout omg
+Mr client command: kick p u r e  p j
+Mr client command: mute p u r e  p j
+Mr client command: kick p u r e  p j
+Mr client command: pickup 560 500
+Mr client command: pickup 557 500
+Mr client command: ipmute i  own this
+Mr client command: ipmute i  own this
+Mr client command: ipmute i__own this
+Mr client command: ipmute i  own this
+Alex command: ipban I own this
+Alex command: ipban I  own this
+Alex command: ipban I own this
+Alex command: ipban i  own this
+Alex command: ipban I Own This
+Alex command: ipban I  own tis bitch1
+Alex command: ipban I  own this bitch10
+Alex command: tele 5555 5555
+Alex command: xteletome I  own this
+Alex command: xteletome I  own this bitch10
+Alex command: xteleto null
+Alex command: xteleto Tricks
+Alex command: update 1
+Alex command: xteleto ballz
+Alex command: message Spammers are IP banned, his server gets CRASHED =D
+Alex command: message PvP Championship! Message Alex to join! Reward 20 point
+Alex command: npc 1
+Alex command: tele 3434 3434
+Alex command: message Advertise our server today and get a Golden Sword!
+Alex command: message Message Alex for deatails.
+Mr client command: xteleto alex
+Alex command: xteleto U bleed Red
+Alex command: players
+Alex command: gfx 250
+Alex command: gfx 391
+Alex command: gfx 390
+Alex command: gfx 379
+Alex command: gfx 380
+Alex command: gfx 390
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: mute ass on fire
+Mr client command: kick ass on fire
+Mr client command: kick ass on fire
+Mr client command: kick ass on fire
+Mr client command: ipmute d o p e
+Mr client command: kick d o p e
+Mr client command: unmute ass on fire
+Mr client command: kick beautypk
+Mr client command: jail supershocker
+Mr client command: unjail supershocker
+Mr client command: xteletome supershocker
+Mr client command: xteletome supershocker
+Alex command: xteleto supershocker
+Alex command: xteleto Mr client
+Alex command: xteletome supershocker
+Alex command: hail
+Mr client command: kick supershocker
+Alex command: xteletome supershocker
+Mr client command: pickup 392 500
+Mr client command: mute skater
+Mr client command: kick skater
+Mr client command: mute kosova112
+Mr client command: kick mr client
+Mr client command: mute time to die
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: kicku bleed re
+Mr client command: kick trey
+Mr client command: kick trey
+Mr client command: kick trey
+Mr client command: kick trey
+Mr client command: pickup 560 500
+Mr client command: kick time to die
+Mr client command: kick time to die
+Mr client command: kick 33
+Mr client command: kick 33
+Mr client command: kick trey
+Alex command: emote 304
+Alex command: emote 804
+Alex command: players
+Alex command: players
+Alex command: pnpc 1
+Alex command: noclip
+Alex command: emote 1352
+Alex command: emote 1352
+Alex command: emote 1352
+Alex command: kick Trey
+Alex command: kick g
+Alex command: kick alex
+Alex command: kick trey
+Alex command: emote1956
+Alex command: emote 1851
+Alex command: kick Trey
+Alex command: players
+Alex command: update 10
+Alex command: bootall
+Alex command: players
+Alex command: ipban syipkpker
+Alex command: update 10
+Alex command: message lag Reducing! DC!
+Alex command: bootall
+Alex command: restart
+Alex command: xteleto Runite
+Alex command: pickup 837 1
+Alex command: pickup 881 9999
+Alex command: npc 96
+Alex command: message Lag Reducing! Everyone log out and In!
+Alex command: pickup 4551 1
+Alex command: npc 496
+Alex command: npc 964
+Mr client command: pickup 555 500
+Alex command: pnpc 50
+Alex command: unpc
+Alex command: message Server Quick-restart! Enjoy =D
+Alex command: update 10
+Alex command: reboot
+Alex command: bootall
+Alex command: players
+Alex command: players
+Alex command: tele 2902 3510
+Alex command: noclip
+Alex command: xteletome Mr client
+Alex command: tele 2583 4823
+Alex command: noclip
+Alex command: xteletome Mr client
+Alex command: tele 2207 4832
+Alex command: xteletome Mr client
+Mr client command: pickup 553 1
+Alex command: xteleto ch33se pk
+Alex command: xteletome Mr client
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: kick mr client
+Mr client command: mute 4 c i d y
+Mr client command: mute 4 c 1 d y
+Mr client command: mute 4 C 1 D Y
+Respray command: changepassword runescape
+Respray command: kick user ownium
+Respray command: kick ownium
+Respray command: modglow
+Respray command: modglow
+Mr client command: kick 99strowns
+Mr client command: mute pk3d br0th3r
+Mr client command: kick pk3d br0th3r
+Respray command: pickup 6818 1
+Respray command: god
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Respray command: pickup 6818 1
+Respray command: pickup 1818 1
+Respray command: yell im lost
+Mr client command: jail respray
+Mr client command: mute respray
+Mr client command: jail respray
+Mr client command: kick respray
+Mr client command: jail Respray
+Mr client command: ipmute respray
+Respray command: ip ban ownium
+Respray command: pickup 6818
+Respray command: pickup 4716 2
+Respray command: pickup 4716 1
+Respray command: pickup 4720 1
+Respray command: pickup 4722 1
+Respray command: mute mr client
+Respray command: mute mr.client
+Respray command: pickup 1818 1
+Respray command: pickup 1618 1
+Respray command: ip kick ownium
+Respray command: kick ownium
+Respray command: kick omnium
+Respray command: kick osmium
+Respray command: mute ownium
+Respray command: mute mr client
+Respray command: mute Mr Client
+Respray command: unmute ownium
+Respray command: mute ima
+Respray command: kick omega
+Respray command: kick omega
+Respray command: kick slipknot k0
+Respray command: kick right
+Respray command: kick right
+Respray command: kick ownium
+Respray command: mute grapes
+Respray command: admin grapes
+Respray command: pickup 4818 1
+Respray command: un-mute respray
+Respray command: mute mr client
+Respray command: kick alex
+Respray command: mute miiii
+Respray command: mute bitch
+Respray command: mute azz
+Respray command: mute k0 u
+Respray command: kick k0 u
+Respray command: kick grapes
+Respray command: kick grapes
+Respray command: kick ownium
+Respray command: kick ownium
+Respray command: kick ownium
+Respray command: mute grapes
+Respray command: mute u b0w d0wn u
+Respray command: mute ch33se pk
+Respray command: kick ch33se pk
+Respray command: lvl 90
+Respray command: behind you0
+Respray command: mute behind you0
+Respray command: ban behind you0
+Respray command: master
+Respray command: glow
+Respray command: mute alpha
+Respray command: kick alpha
+Respray command: kick alpha
+Alex command: ipban Respray
+Alex command: update 15
+Alex command: message anti-Lag update
+Alex command: bootall
+Alex command: message Emote Glitch, Restart!
+Alex command: update 10
+Alex command: reboot
+Alex command: bootall
+Alex command: gfx 368
+Alex command: gfx 367
+Alex command: gfx 368
+Alex command: gfx 329
+Alex command: 368
+Alex command: gfx 36
+Alex command: gfx 367
+Alex command: gfx 368
+Alex command: gfx 369
+Alex command: gfx 6
+Alex command: gfx 366
+Alex command: gfx 368
+Alex command: gfx 367
+Alex command: ::gfx 367
+Alex command: gfx 368
+Alex command: gfx 363
+Alex command: gfx 362
+Alex command: ::gfx 361
+Alex command: gfx 361
+Alex command: gfx 360
+Alex command: gfx 359
+Alex command: gfx 361
+Alex command: updae 0
+Alex command: update 0
+Alex command: bootall
+Alex command: hail
+Alex command: pnpc 50
+Alex command: unpc
+Alex command: pnpc 45
+Alex command: unpc
+Alex command: tele 2207 4836
+Alex command: emote 804
+Alex command: xteleto ownagescape
+Alex command: emote 866
+Alex command: emote 864
+Alex command: mute kyrpajyra
+Alex command: update 10
+Alex command: bootall
+Alex command: bootall
+Alex command: banuser null
+Alex command: message Suggest your new weapon!
+Alex command: message Adding D hally to shop on popular demand!
+Alex command: update 10
+Alex command: bootall
+Alex command: tele 3434 3434
+Alex command: pikup 2997 1
+Alex command: pickup 2997 
+Alex command: pickup 7140 6
+Alex command: emote 1658
+Alex command: emote 1060
+Alex command: emote 2078
+Alex command: emote 2081
+Alex command: emote 2062
+Alex command: emote 438
+Alex command: emote 439
+Alex command: emote 440
+Alex command: emote 441
+Alex command: emote 438
+Alex command: emote 437
+Alex command: emote 435
+Alex command: emote 2797
+Alex command: emote 2798
+Alex command: emote 2796
+Alex command: emote 2795
+Alex command: emote 2794
+Alex command: emote 2793
+Alex command: emote 2792
+Alex command: emote 2658
+Alex command: emote 2968
+Alex command: emote 2967
+Alex command: emote 2965
+Alex command: emote 2967
+Alex command: gfx 248
+Alex command: gfx 347
+Alex command: gfx 398
+Alex command: gfx 399
+Alex command: gfx 479
+Alex command: gfx 479
+Alex command: gfx 492
+Alex command: xteleto xdeathx
+Alex command: xteleto grapes
+Alex command: update 15
+Alex command: message adding new Pk item!
+Alex command: bootall
+Alex command: pickup 7140 1
+Alex command: players
+Alex command: mute slipknot k0
+Alex command: npc 50
+Alex command: pickup 4153 1
+Alex command: npc 1
+Alex command: npc 49
+Alex command: players
+Alex command: players
+Alex command: update 2
+Alex command: bootall
+Alex command: reboot
+Alex command: message QUICK RESTART###########################
+Alex command: bootall
+Alex command: tele 2846 5085
+Alex command: xteletome i cola i
+Alex command: xteletomeall
+Alex command: xteleto xdeathx
+Alex command: xteletome I cola I
+Alex command: interface 6308
+Alex command: bootall
+Alex command: bootall
+Alex command: interface 6308
+Alex command: update 1
+Alex command: bootall
+Alex command: update 60
+Alex command: update 10
+Alex command: bootall
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: mute pure skiler
+Mr client command: mute pure skiller
+Mr client command: mute 99 99 99 99
+Alex command: tele 3434 3434
+Alex command: xteletome omega
+Alex command: bank
+Alex command: npc 964
+Alex command: bank
+Alex command: xteleto omega
+Alex command: xteleto saradomin
+Alex command: xteletome Omega
+Alex command: tele 3434 3434
+Alex command: xteletome xdeathx
+Alex command: xteleto omega
+Alex command: xteletome xdeathx
+Alex command: update 10
+Alex command: bootall
+Xdeathx command: joinclan royal pkers
+Xdeathx command: teleport fear figment
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 31011
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 3102 9999999999
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 6525 999999999
+Xdeathx command: pickup 6525 999999999
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Alex command: update 5
+Alex command: bootall
+Alex command: update 5
+Alex command: bootall
+Alex command: tele 3434 3434
+Alex command: 3496
+Alex command: emote 3496
+Alex command: emotwe 3497
+Alex command: emote 3495
+Alex command: emote 3497
+Alex command: pickup 6818
+Alex command: emote 3497
+Alex command: emote 3496
+Alex command: emote 3498
+Alex command: emote 3494
+Alex command: e::bank
+Alex command: ban
+Alex command: bank
+Alex command: pickup 4726 6
+Alex command: emote 2081
+Alex command: emote 2082
+Alex command: emote 2081
+Alex command: message New Weapon Attack Styles!
+Alex command: message update
+Alex command: message Last update of the day =D  Have fun
+Alex command: update 5
+Alex command: bootall
+Alex command: message Majot Bug Detected: Cutlass can glitch hitting up to 187.
+Alex command: message srry guys, for ur pking sakes.
+Alex command: update 10
+Alex command: bootall
+Alex command: xteleto Omega
+Alex command: tele 3434 3434
+Alex command: xteletome Fear figment
+Alex command: bank
+Alex command: copy fear figment
+Alex command: bank
+Alex command: npc 964
+Alex command: xteletome fear figment
+Alex command: update 10
+Alex command: bootall
+Alex command: join Dee dee ess
+Alex command: talk sup all
+Alex command: talk SUP NIGGAS
+Alex command: talk niggas get drunk
+Alex command: talk lolz?
+Alex command: players
+Alex command: talk hohoho
+Alex command: talk want me to make, if ur in same clan chat. u cant pj?
+Alex command: yell w8 no
+Alex command: talk w8 nvm
+Alex command: talk random ppl go in ur chat. u cant atk them
+Alex command: talk so
+Alex command: talk fucking
+Alex command: players
+Alex command: talk sooo
+Alex command: talk mehs
+Alex command: talk can i join clan?
+Alex command: talk holy fuck shit
+Alex command: tslk duck shit nggers
+Alex command: talk duck shit niggers
+Alex command: talk NIGGGGGGGGGGGGGGGGGGGGGGGGGGERS
+Alex command: join dee dee ess
+Alex command: talk ?
+Alex command: talk umm sure
+Alex command: talk but they can just join again
+Alex command: yell lolz
+Alex command: talk lolz
+Alex command: talk got any ideas?
+Alex command: tele 3434 3434
+Alex command: xteletome owned plox
+Alex command: ipban owned plox
+Alex command: xteleto shiptar
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: xteletome owner ploxz
+Alex command: xteletome runite
+Alex command: xteleto teh pwn
+Alex command: xteletome runite
+Alex command: tele 3434 3434
+Alex command: xteletome runite
+Alex command: xteleto dds is cool
+Alex command: xteletome runie
+Alex command: xteletome runite
+Alex command: tele 3434 3434
+Alex command: xteletome ruite
+Alex command: xteletome runite
+Alex command: xteleto Fear Figment
+Alex command: xteletome Runite
+Alex command: pickup 995 99999999
+Alex command: bootal
+Alex command: bootall
+Xdeathx command: join royal pkers
+Xdeathx command: joinclan royal pkers
+Xdeathx command: join
+Xdeathx command: join xdeathx
+Xdeathx command: talk anyone in my clan right now?
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Alex command: copy xdeathx
+Alex command: copy fear figment
+Alex command: copy mag3
+Alex command: copy xdeathx
+Alex command: bank
+Alex command: copy xdeathx
+Alex command: bank
+Alex command: npc 964
+Alex command: copy fear figment
+Xdeathx command: mute lets   go
+Xdeathx command: mute lets   3  go
+Alex command: bank
+Alex command: pickupdead
+Xdeathx command: mute lets   3  go
+Alex command: pickup 5698 1
+Alex command: bank
+Alex command: ipban let  3 go
+Alex command: lets  3 go
+Alex command: ipban lets  3 go
+Alex command: ipban lets   3  go
+Alex command: ipban lets   3   go
+Xdeathx command: mute Lets   3  Go
+Alex command: ipban lets    3  go
+Alex command: ipban lets   3  go
+Xdeathx command: join xdeathx
+Xdeathx command: talk why?
+Alex command: ipban lets    3 go
+Xdeathx command: copy alex
+Alex command: bootall
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 1107 1
+Xdeathx command: pickup 1077 1
+Xdeathx command: pickup 4746 999999999
+Xdeathx command: pickup 4750 999999999
+Xdeathx command: pickup 4752 999999999
+Xdeathx command: pickup 1645 
+Xdeathx command: pickup 6583 1
+Xdeathx command: pickup 6617 1
+Xdeathx command: pickup 6623 1
+Xdeathx command: pickup 6633 1
+Xdeathx command: pickup 6627 1
+Xdeathx command: pickup 6637 1
+Xdeathx command: pickup 6611 1
+Alex command: npc 2640
+Mr client command: pickup 557 500
+Mr client command: pickup 560 500
+Mr client command: ban mage
+Alex command: bootall
+Xdeathx command: killcount
+Xdeathx command: kc
+Xdeathx command: pickup 8002 1
+Xdeathx command: pickup 7686 1
+Alex command: bank
+Xdeathx command: pickup 5090 1
+Xdeathx command: pickup 5091 1
+Xdeathx command: pickup 46521
+Xdeathx command: pickup 4652 1
+Xdeathx command: pickup 4601 1
+Xdeathx command: pickup 6542 1
+Xdeathx command: pickup 4602 1
+Xdeathx command: pickup 4601 1
+Xdeathx command: pickup 4965 1
+Xdeathx command: pickup 4592 1
+Xdeathx command: pickup 4544 1
+Xdeathx command: pickup 4534 1
+Alex command: bootall
+Xdeathx command: pickup 4488 1
+Xdeathx command: picup 4488 1
+Xdeathx command: pickup 4488 1
+Xdeathx command: pickup 4050 1
+Xdeathx command: pickup 4049 1
+Xdeathx command: pickup 4031 1
+Alex command: update 1
+Alex command: bootall
+Alex command: bank
+Xdeathx command: pickup 3898 1
+Xdeathx command: pickup 3690 1
+Xdeathx command: pickup 3667 1
+Xdeathx command: pickup 3242 1
+Xdeathx command: pickup 2632 1
+Xdeathx command: pickup 2631 
+Xdeathx command: pickup 2397 1
+Xdeathx command: pickup 2398 1
+Xdeathx command: pickup 0981 1
+Xdeathx command: pickup 0963 999999999
+Xdeathx command: pickup 0962 1
+Xdeathx command: pickup 0962 1
+Xdeathx command: pickup 0962 1
+Xdeathx command: pickup 0962 1
+Xdeathx command: pickup 0962 1
+Xdeathx command: pickup 0525 1
+Xdeathx command: pikup 0523 1
+Xdeathx command: pickup 0523 1
+Xdeathx command: pickup 0464 1
+Xdeathx command: pickup 0087 1
+Xdeathx command: pickup 00351
+Xdeathx command: pickup 0035 1
+Xdeathx command: pickup 0599 1
+Xdeathx command: pickup 0606 1
+Xdeathx command: pickup 1263 1
+Xdeathx command: pickup 1249 1
+Alex command: update 0
+Alex command: bootall
+Alex command: gfx 332
+Alex command: bootall
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 7140 1
+Alex command: bootall
+Xdeathx command: pickup 7141 99999999
+Xdeathx command: pickup 7141 1
+Alex command: message Bugg with pking
+Alex command: bootall
+Alex command: message srry for the dcs, bug testing
+Alex command: message servers bak online now, so dont BUG me
+Alex command: players
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 0084 
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 7140 1
+Alex command: update 0
+Alex command: bootall
+Alex command: gfx 332
+Alex command: bank
+Xdeathx command: pickup 6724 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 4140 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6818 1
+Alex command: gfx 332
+Alex command: UPDATE 10
+Alex command: update 10
+Alex command: bootall
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Alex command: bootall
+Xdeathx command: pickup 4710 1
+Xdeathx command: pickup 4708 1
+Alex command: bootall
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: join xdeathx
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Alex command: bootall
+Alex command: ipban k0 u
+Alex command: ip ban k0 u
+Alex command: kick k0 u
+Alex command: bootall
+Alex command: join dds ownz
+Alex command: leave
+Alex command: bootall
+Alex command: bootall
+Alex command: join dee dee ess
+Alex command: talk hmmm
+Alex command: talk hm
+Alex command: join alex
+Alex command: talk hm
+Alex command: talk FUCK
+Alex command: talk hohoho
+Alex command: talk sup
+Xdeathx command: join
+Xdeathx command: join xdeathx
+Xdeathx command: join xdeathx
+Xdeathx command: join xdeathx
+Alex command: bank
+Xdeathx command: join xdeathx
+Alex command: pickup 3101 3
+Alex command: pickup 7140 7
+Xdeathx command: join xdeath
+Xdeathx command: join xdeathx
+Alex command: bootall
+Xdeathx command: join xdeathx
+Alex command: pickup 6788 4
+Alex command: pickup 6789 6
+Alex command: npc 50
+Alex command: npc 2026
+Alex command: npc 3300
+Alex command: npc 3000
+Alex command: npc 3200
+Xdeathx command: join xdeathx
+Alex command: copy twin pure
+Alex command: bank
+Alex command: npc 1460
+Alex command: npc 1163
+Alex command: npc 11460
+Alex command: npc 1460
+Alex command: npc 1460
+Alex command: npc 1459
+Alex command: npc 66
+Alex command: npc 66
+Alex command: npc 66
+Alex command: npc 1158
+Alex command: npc 1160
+Alex command: pickup 861 5
+Alex command: pickup 892 9999
+Alex command: npc 1592
+Alex command: copy xdeathx
+Alex command: npc 3300
+Alex command: npc 3200
+Alex command: bank
+Alex command: pickup 892 999999
+Alex command: pickup 861 2
+Alex command: bank
+Xdeathx command: join xdeathx
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: join xdeathx
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: join xdeathx
+Alex command: pickup 4214 4
+Alex command: pickup 4225 1
+Alex command: pickup 4734 1
+Alex command: pickup 7140 7
+Alex command: pickup 995 999999999
+Alex command: pickup 99999999
+Xdeathx command: pickup 4225 1
+Xdeathx command: pickup 4226 999999999
+Xdeathx command: pickup 4226 1
+Xdeathx command: pickup 4227 1
+Xdeathx command: pickup 4235 1
+Xdeathx command: pickup 4234 1
+Xdeathx command: pickup 4224 1
+Xdeathx command: pickup 4223 1
+Xdeathx command: pickup 4215 
+Xdeathx command: pickup 4215 1
+Xdeathx command: pickup 4214 1
+Xdeathx command: pickup 4213 1
+Alex command: pickup 4214 1
+Alex command: join j 0 j 0 z
+Xdeathx command: pickup 7140 1
+Alex command: join j 0 j 0 z s
+Xdeathx command: pickup 6524 1
+Alex command: talk sup
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 68181
+Xdeathx command: pickup 6818 1
+Xdeathx command: noclip
+Xdeathx command: noclip
+Xdeathx command: noclip
+Xdeathx command: bank
+Xdeathx command: bank
+Xdeathx command: yell noobs
+Xdeathx command: npc 4943
+Xdeathx command: npc 4149
+Xdeathx command: npc 4149
+Xdeathx command: join xdeathx
+Xdeathx command: players
+Xdeathx command: players
+Xdeathx command: players
+Xdeathx command: npc 2475
+Xdeathx command: noclip
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: jail shadowbleach
+Alex command: updat 20
+Alex command: update 20
+Alex command: message Bug Fix
+Xdeathx command: join xdeathx
+Xdeathx command: talk anyone in the clan right now?
+Xdeathx command: talk whos in the clan then?
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: noclip
+Alex command: update 10
+Alex command: message increasing crystal powers
+Alex command: message We had requests Dh hits like the chance of a lady
+Alex command: message so we're fixing it
+Alex command: update 10
+Alex command: bootall
+Alex command: message ok guys fc has been too overpowered
+Alex command: update 0
+Alex command: update 10
+Alex command: message fixing bugs
+Alex command: gfx 335
+Alex command: gfx 336
+Alex command: gfx 266
+Alex command: gfx 402
+Alex command: gfx429
+Alex command: gfx 541
+Alex command: gfx 541
+Alex command: gfx 550
+Alex command: gfx 552
+Alex command: yup
+Alex command: gfx497
+Alex command: gfx 497
+Alex command: gfx 503
+Alex command: gfx 505
+Alex command: gfx 520
+Alex command: gfx 542
+Alex command: gfx 546
+Alex command: gfx 54
+Alex command: gfx 547
+Alex command: gfx 548
+Alex command: gfx 549
+Alex command: gfx 559
+Alex command: gfx 567
+Alex command: gfx 560
+Alex command: gfx 519
+Alex command: gfx 5412
+Alex command: players
+Alex command: message I'm making Clan Wars sumtime today =D
+Alex command: update 10
+Alex command: join k
+Alex command: join lol
+Alex command: createcla
+Alex command: createclan
+Alex command: createclan
+Alex command: leave
+Alex command: leave
+Alex command: bootall
+Alex command: createclan
+Alex command: join alex
+Alex command: join alex
+Alex command: talk hm
+Alex command: tele 2902 3510
+Alex command: noclip
+Alex command: noclip
+Alex command: xteleto Grape drank
+Alex command: tele 2464  4782
+Alex command: tele 2464 4782
+Alex command: noclip
+Alex command: tele 2902 3510
+Alex command: noclip
+Alex command: message alrite guys
+Alex command: message clan wars done <3
+Alex command: update 10
+Alex command: join alex
+Alex command: npc 0
+Alex command: join alex
+Alex command: join laex
+Alex command: join laex
+Alex command: join alex
+Alex command: talk wtf
+Alex command: message im updating atm nore the dcs =\
+Alex command: update 10
+Alex command: jon alex
+Alex command: join alex
+Alex command: vsclan 33
+Alex command: join alex
+Alex command: vsclan 33
+Alex command: vsclan p a d d l e
+Alex command: join alex
+Alex command: vsclan grapes
+Alex command: vsclan already k
+Alex command: vsclan p a d d l e
+Alex command: xteleto p a d d l e
+Alex command: update 9
+Alex command: join alex
+Alex command: vsclan p a d d l e
+Alex command: vsclan twin pure
+Alex command: vsclan pk
+Alex command: vsclan twin pure
+Alex command: vsclan 33
+Alex command: vsclan 33
+Alex command: vsclan Alex
+Alex command: update 10
+Alex command: message grr =D
+Alex command: message sry for the dcs, bug fixing =\
+Alex command: join laex
+Alex command: join alex
+Alex command: vsclan owned plox
+Alex command: update 10
+Alex command: join alex
+Alex command: vsclan owned pox
+Alex command: vsclan owned plox
+Alex command: join alex
+Alex command: vsclan owned plox
+Alex command: vsclan owned plox
+Alex command: copy time to die
+Alex command: message Beat Alex gets a place in the listes!
+Alex command: tele 3434 3434
+Alex command: xteletome pk
+Alex command: npc 964
+Alex command: npc 494
+Alex command: npc 953
+Alex command: npc 499
+Alex command: xteleto pk
+Alex command: npc 0
+Alex command: copy pk
+Alex command: bank
+Alex command: pnpc 0
+Alex command: pnpc 99
+Alex command: join alex
+Alex command: vsclan test
+Alex command: join alex
+Alex command: vsclan test
+Alex command: update 10
+Alex command: join alex
+Alex command: vsclan alex
+Alex command: vsclan alex
+Alex command: update 1
+Alex command: xteleto test
+Alex command: join alex
+Alex command: vsclan test
+Alex command: vsclan test
+Alex command: vsclan Alex
+Alex command: vsclan Alex
+Alex command: update 60
+Alex command: update 0
+Alex command: join alex
+Mr client command: createclan
+Mr client command: talk haider
+Mr client command: talk hi
+Mr client command: lol
+Mr client command: talk haider
+Mr client command: talk arr
+Alex command: join alex
+Alex command: vsclan Test
+Mr client command: join mr client
+Mr client command: talk haider
+Mr client command: talk lol
+Mr client command: vsclan
+Mr client command: vsclan fear figment
+Mr client command: pickup 560 500
+Mr client command: pickup 557 50
+Mr client command: pickup 557 450
+Alex command: xteleto test
+Mr client command: mute pk3d br0th3r
+Mr client command: mute 33
+Mr client command: pickup 2621 1
+Mr client command: pickup 4745 1
+Mr client command: pickup 2503 1
+Mr client command: pickup 4759 1
+Mr client command: pickup 2444 1
+Alex command: join alex
+Alex command: ::update 0
+Alex command: update 0
+Alex command: join alex
+Alex command: ::update 10
+Alex command: update 10
+Alex command: vsclan Test
+Alex command: join alex
+Alex command: vsclan tes
+Alex command: vsclan test
+Alex command: join alex
+Alex command: vsclan test
+Alex command: npc 37
+Alex command: bootall
+Alex command: pickup 6734 4
+Alex command: pickup 6534
+Alex command: pickup 6384 
+Alex command: join alex
+Alex command: vsclan test
+Alex command: message restart agai
+Alex command: bootall
+Alex command: join alex
+Alex command: join alex
+Alex command: xteletome test
+Alex command: update 9
+Alex command: join alex
+Alex command: xteletome test
+Alex command: xteletome alex
+Alex command: xteletome Test
+Alex command: join alex
+Alex command: join alex
+Alex command: join alex
+Alex command: ::xteletome test
+Alex command: xteletome tester
+Alex command: bank
+Alex command: xteletome test
+Alex command: vsclan test
+Alex command: join alex
+Alex command: leave
+Alex command: join alex
+Alex command: talk l
+Alex command: talk lol
+Alex command: xteleto grapes
+Alex command: xteleto lunar
+Alex command: bank
+Alex command: bank
+Alex command: pickup 6528 1
+Alex command: pickup6578 1
+Alex command: pickup 6578 1
+Alex command: bank
+Alex command: update 1
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4213 1
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 19000
+Alex command: copy grapes
+Alex command: pickup 6818 1
+Alex command: copy grapes
+Alex command: update 1
+Alex command: bank
+Alex command: update 15
+Alex command: pickup 6577 1
+Alex command: pickup 6577 3
+Alex command: update 1337
+Alex command: update 5000
+Alex command: update 999999
+Alex command: update 99999999
+Alex command: pickup 837 1
+Alex command: pickup 880 1
+Alex command: pickup 880 999999
+Alex command: update 10
+Alex command: update 10
+Alex command: gfx 3353
+Alex command: gfx 3353
+Alex command: emote 3353
+Alex command: emote 3352
+Alex command: emote 3355
+Alex command: emote 3354
+Alex command: emmote 3354
+Alex command: emote 3359
+Alex command: emote 3358
+Alex command: emote 3357
+Alex command: emote 3356
+Alex command: gfx 3355
+Alex command: emote 3355
+Alex command: emote 3360
+Alex command: emote 3361
+Alex command: emote 3362
+Alex command: emote 3363
+Alex command: emote 3364
+Alex command: emote 3364
+Alex command: emote 3364
+Alex command: emote 3363
+Alex command: emote 6656
+Alex command: emote 3365
+Alex command: emote 3357
+Alex command: emote 3368
+Alex command: emote 3369
+Alex command: emote 3359
+Alex command: emote 3370
+Alex command: emote 3371
+Alex command: emote 3372
+Alex command: emote 3372
+Alex command: emote 3373
+Alex command: emote 3375
+Alex command: emote 3376
+Alex command: emote 3380
+Alex command: emote 3390
+Alex command: bootall
+Alex command: bank
+Grapes command: pickup 6818
+Grapes command: pickup 6528
+Grapes command: pickup 557 100000
+Grapes command: kickuser 33
+Grapes command: kick 33
+Grapes command: kik ch33se pk
+Grapes command: kick ch33se pk
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 6585
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Grapes command: pickup 6582
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 557 100000
+Grapes command: pickup 560 1000000
+Grapes command: spec
+Alex command: update 0
+Grapes command: pickup 6818
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Alex command: bank
+Alex command: pickup 6537 1
+Alex command: pickup 6527 2
+Alex command: pickup 6528 4
+Alex command: xteleto pk
+Alex command: xteleto Pk
+Alex command: bank
+Alex command: xteleto Grapes
+Alex command: pickup 3101 1
+Alex command: pickup 4151 1
+Alex command: pickup 6818 1
+Alex command: pickup 6181 1
+Alex command: pickup 6537 1
+Alex command: pickup 6587 1
+Alex command: pickup 737 1
+Alex command: pickup 6737 1
+Alex command: pickup 6818 1
+Alex command: bank
+Alex command: bank
+Alex command: gfx340
+Alex command: gfx 340
+Alex command: gfx 340
+Alex command: gfx 341
+Alex command: gfx 339
+Alex command: gfx600
+Alex command: gfx 599
+Alex command: gfx 601
+Alex command: gf 602
+Alex command: emote 241
+Alex command: emote 3114
+Alex command: gfx 3440
+Alex command: emote 3441
+Alex command: emote 3439
+Alex command: 2399
+Alex command: emote 2399
+Alex command: emote 2400
+Alex command: emote 2401
+Alex command: update 5
+Alex command: bank
+Alex command: pickup 6818 1
+Alex command: copy omg
+Alex command: copy pluse
+Alex command: copy pulse
+Alex command: pickup 6737
+Alex command: copy omg
+Alex command: pickup 6738 9
+Alex command: pickup 6737 1
+Alex command: update 10
+Alex command: update 10
+Alex command: pickup 6818 1
+Alex command: pickup 6587 1
+Alex command: pickup 4158
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: players
+Alex command: message gtg guys =\
+Alex command: messge gotta fix pc harddrive 2orrow
+Alex command: message fixing pc 2morrow
+Alex command: message cant stay up 
+Alex command: message Pce out
+Alex command: update 10
+Alex command: pickup 5698 11
+Alex command: update 10
+Xdeathx command: players
+Xdeathx command: pickup 6818 1
+Xdeathx command: join xdeathx
+Xdeathx command: join xdeathx
+Alex command: update 1
+Alex command: copy supershocker
+Xdeathx command: commands
+Xdeathx command: joinclan royal pkers
+Xdeathx command: join royal pkers
+Xdeathx command: join xdeathx
+Alex command: pickup 1113 1
+Alex command: pickup 4091 1
+Alex command: picku 4093
+Alex command: pickup 4093
+Alex command: pickup 384
+Alex command: pickup 3842
+Alex command: pickup 4225 1
+Xdeathx command: pickup 3101 1
+Alex command: pickup 6818
+Xdeathx command: pickup 6818 1
+Alex command: pickup 68198
+Alex command: pickup 6818
+Xdeathx command: join xdeathx
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Grapes command: pickup 3751
+Grapes command: pickup 6585
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Grapes command: pickup 6818
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 3101 1
+Alex command: pickup 4225 1
+Grapes command: pickup 560 10000
+Grapes command: pickup 557 10000
+Alex command: update 10
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Alex command: pickup 6528 1
+Xdeathx command: noclip
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: commands
+Xdeathx command: join xdeathx
+Alex command: bootall
+Alex command: pickup 6528 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Grapes command: pickup 6852
+Grapes command: pickup 6582
+Grapes command: pickup 6818
+Grapes command: kick time to die
+Grapes command: kick already k0
+Alex command: bank
+Xdeathx command: players
+Alex command: pickup 6528 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Alex command: pickup 6528 1
+Grapes command: pickup 880 100000
+Grapes command: pickup 879 10000
+Xdeathx command: pickup 6818 1
+Grapes command: pickup 4740 100000
+Alex command: kick supershocker
+Grapes command: kick supershocker
+Xdeathx command: pickup 4194 1
+Xdeathx command: pickup 7961 1
+Xdeathx command: pickup 0430 1
+Alex command: bank
+Alex command: pickup 6528 1
+Alex command: bank
+Alex command: pickup 6528 
+Alex command: bank
+Xdeathx command: pickup 6384 1
+Alex command: bank
+Alex command: bank
+Xdeathx command: pickup 6384 1
+Alex command: pickup 4740 9999
+Alex command: bank
+Alex command: pickup 6528 
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Alex command: pickup 6818
+Alex command: pickup 6587
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 3101 1
+Alex command: players
+Xdeathx command: players
+Grapes command: kick latexi125
+Alex command: pickup 6818 1
+Grapes command: pickup 4740 100000
+Alex command: pickup 6528
+Xdeathx command: players
+Alex command: pickup 2425
+Grapes command: pickup 557 10000
+Grapes command: pickup 560 10000
+Alex command: update 10
+Alex command: bank
+Xdeathx command: noclip
+Alex command: bank
+Alex command: pickup 6528
+Grapes command: kick pk
+Grapes command: kick pk
+Grapes command: kick i pwnz i
+Grapes command: kick i pwnz i
+Grapes command: kick pk3d br0th3r
+Grapes command: pickup 6737
+Alex command: xteleto runite
+Alex command: bank
+Alex command: pickup 4740 099999
+Alex command: bank
+Alex command: pickup 6528
+Alex command: pickup 4740 999999
+Alex command: pickup 6528
+Alex command: pickup 4740 100000
+Alex command: update 10
+Alex command: message fixing rangge
+Alex command: pickup 6528
+Grapes command: kick pk3d br0th3r
+Alex command: kick pk3d br0th3r
+Alex command: pickup 4740 999999
+Grapes command: kick pk3d br0th3r
+Grapes command: kick pk3d br0th3r
+Grapes command: kick pk3d br0th3r
+Grapes command: kick pk3d br0th3r
+Grapes command: kick time to die
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 4225
+Grapes command: pickup 4225
+Grapes command: kick twin pure
+Grapes command: pickup 4225
+Grapes command: kick rangepker940
+Grapes command: kick time to die
+Grapes command: kick time to die.
+Grapes command: kick time to die
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Grapes command: kick irangekoi
+Grapes command: pickup 6852
+Grapes command: pickup 6258
+Grapes command: pickup 6582
+Grapes command: pickup 6258
+Xdeathx command: players
+Grapes command: pickup 6258
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pikup 1478 1
+Xdeathx command: pickup 1478 1
+Grapes command: kick rangepker940
+Xdeathx command: pickup 1725 1
+Xdeathx command: pickup 1725 1
+Xdeathx command: pickup 1726 999999999
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 4083 1
+Xdeathx command: pickup 4079 1
+Xdeathx command: pickup 4084 1
+Xdeathx command: pickup 4069 1
+Xdeathx command: noclip
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: players
+Xdeathx command: pickup 3105 1
+Grapes command: pickup 1725
+Xdeathx command: pickup 3106 999999999
+Xdeathx command: pickup 6565 1
+Xdeathx command: pickup 6566 1
+Xdeathx command: npc 6560 1
+Xdeathx command: pickup 6560 1
+Xdeathx command: pickup 6541 1
+Xdeathx command: pickup 6547 1
+Xdeathx command: pickup 6548 1
+Grapes command: kick s0z 99 hp gf
+Xdeathx command: pickup 2437 999999999
+Xdeathx command: pickup 2441 999999999
+Xdeathx command: pickup 2443 999999999
+Xdeathx command: pickup 2442 1
+Xdeathx command: pickup 3101 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: players
+Xdeathx command: noclip
+Xdeathx command: mute lunar
+Xdeathx command: pickup 6537 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: kick oh man
+Xdeathx command: kick oh an
+Xdeathx command: unmute lunar
+Grapes command: pickup 861
+Grapes command: pickup 78 100000
+Xdeathx command: pickup 6818 1
+Grapes command: pickup 892 1000000
+Grapes command: kick k0 u dead
+Grapes command: kick ranges d3ath
+Alex command: xteletome xdeathx
+Alex command: xteletome Lunar
+Grapes command: kick tigbittys
+Xdeathx command: noclip
+Xdeathx command: player
+Xdeathx command: players
+Xdeathx command: noclip
+Alex command: update 25
+Alex command: message Fixed Ranged KILl bug, and oray bug
+Alex command: xteleto Grapes
+Alex command: xteleto xx0bbyxx
+Xdeathx command: kick fear figment
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 6818 1
+Xdeathx command: pickup 7140 1
+Grapes command: pickup 4214
+Alex command: update 10
+Alex command: pickup 4225
+Alex command: bank
+Grapes command: kick skategirl
+Alex command: bank
+Alex command: bank
+Alex command: pickup 6528 
+Xdeathx command: players
+Grapes command: kick the beast
+Grapes command: kick hey ur dead1
+Grapes command: pickup 6528
+Alex command: player
+Alex command: players
+Alex command: pickup 6528
+Alex command: pickup 7140
+Xdeathx command: join xdeathx
+Grapes command: kick skategir
+Grapes command: kick skategirl
+Alex command: bank
+Alex command: pickup 6528 3
+Alex command: pickup 6522 999999
+Xdeathx command: pickup 6524 1
+Xdeathx command: pickup 7140 1
+Xdeathx command: pickup 6771 1
+Alex command: pickup 861 
+Alex command: pickup 891 9999999
+Alex command: pickup 892 999999
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: copy xdeathx
+Alex command: bank
+Alex command: pickup 6737 4
+Alex command: pickup 7140 
+Alex command: pickup 4225 
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Xdeathx command: pickup 3101 1
+Alex command: bank
+Alex command: prayerrefill
+Alex command: pickup 6587 1
+Alex command: bank
+Alex command: bank
+Xdeathx command: noclip
+Grapes command: mute skategirl
+Alex command: pickup 4827
+Alex command: pickup 892 99999999
+Xdeathx command: mute grapes
+Alex command: ipban xdeathx
+Alex command: pickup 4827 1
+Alex command: pickup 4734
+Alex command: pickup 4740 999999999
+Alex command: pickup 6528 7
+Alex command: xteleto fear figment
+Owned plox command: bank
+Owned plox command: bank
+Grapes command: kick panelo
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 4740
+Grapes command: pickup 4740 10000000
+Owned plox command: bank
+Alex command: update 0
+Alex command: spec
+Owned plox command: bank
+Alex command: ban
+Alex command: bank
+Alex command: kick owned plox
+Alex command: pickup 6528
+Alex command: pickup 4740 9999
+Alex command: update 39
+Alex command: message Fixing Magie
+Alex command: message Fixing Mage
+Alex command: pickup 4740 99999
+Alex command: pikup 6528 
+Alex command: pickup 6528 7
+Grapes command: pickup  4740 100000000
+Grapes command: pickup 4740 1000000
+Alex command: bank
+Alex command: update10
+Grapes command: kick owned plox
+Alex command: update 15
+Grapes command: pickup 4212
+Grapes command: pickup 4212
+Grapes command: pickup 4214
+Grapes command: pickup 1961 1
+Alex command: bank
+Grapes command: kick owned plox
+Alex command: bank
+Grapes command: kick owned pl0x
+Grapes command: pickup 565 1000000
+Grapes command: pickup 560 100000
+Grapes command: pickup 3105
+Grapes command: pickup 6585
+Grapes command: pckup 3751
+Grapes command: pickup 3751
+Alex command: bank
+Grapes command: pickup 4736
+Grapes command: pickup 4738
+Grapes command: pickup 4712
+Grapes command: pickup 6258
+Grapes command: pickup 6852
+Grapes command: pickup 6285
+Alex command: message No more invisible people bug
+Grapes command: pickup 6852
+Grapes command: pickup 6258
+Grapes command: pickup 6528
+Grapes command: pickup 4740
+Grapes command: pickup 4740 1000000
+Alex command: update 10
+Alex command: message fixing bug
+Alex command: pickup 6528
+Alex command: pickup 4740 9999
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Grapes command: pickup 3751
+Grapes command: pickup 6852
+Grapes command: pickup 6258
+Grapes command: pickup 6582
+Grapes command: pickup 6825
+Grapes command: pickup 6285
+Grapes command: pickup 628
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Alex command: bank
+Grapes command: pickup 4740 100000
+Alex command: bank
+Alex command: pickup 4740 99999999
+Alex command: pickup 6528 6
+Alex command: pickup 4740 99999
+Alex command: pickup 6528
+Alex command: upate 10
+Alex command: message fixing cr bow
+Alex command: update 0
+Alex command: pickup 4740 1
+Alex command: pickup 4740 99999
+Alex command: pickup 3106 99999
+Alex command: pickup 6737 1
+Alex command: tele 3434 3434
+Alex command: xteletome runite
+Alex command: bank
+Alex command: pickup 6528
+Alex command: npc 0
+Alex command: pickup 4740 9999999
+Alex command: pickup 6528 6
+Alex command: bank
+Grapes command: pickup 3098
+Alex command: pickup 4740 99999999999
+Alex command: pickup 4740 999999999
+Alex command: pickup 6737
+Alex command: pickup 6528 9999999
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 6528
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 99999999
+Alex command: bank
+Alex command: bank
+Grapes command: pickup 652
+Grapes command: pickup 6528
+Grapes command: pickup 3105
+Grapes command: pickup 7462
+Grapes command: pickup 6818
+Grapes command: pickup 4740 100000
+Alex command: bank
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 9999999
+Alex command: pickup 6528 1
+Grapes command: pickup 4740 11000000
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 3105
+Grapes command: pickup 6754
+Grapes command: pickup 3751
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Alex command: pickup 4740 999999
+Alex command: pickup 6528 9
+Grapes command: pickup 4736
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 9999999
+Alex command: pickup 6528 9
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Grapes command: pickup 3751
+Grapes command: pickup 3105
+Grapes command: pickup 3762
+Grapes command: pickup 3764
+Grapes command: pickup 7462
+Grapes command: pickup 637
+Grapes command: pickup 4740 100000
+Grapes command: pickup 6825
+Grapes command: pickup 6737
+Grapes command: pickup 6528
+Grapes command: pickup 6818 1
+Alex command: pickup 4740 99999999
+Alex command: pickup 6528 6
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Grapes command: home
+Alex command: pickup 4740 99999
+Alex command: bank
+Alex command: pickup 6528 6
+Alex command: bank
+Alex command: pickup 4740 566666
+Alex command: pickup 6528 99
+Alex command: kick str pure
+Alex command: kick owned pl0x
+Alex command: kick 126
+Alex command: bank
+Alex command: pickup 6528
+Alex command: banl
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: copy if only
+Alex command: copy if only
+Alex command: copy If only
+Grapes command: pickup 6852
+Grapes command: pickup 6528
+Grapes command: pickup 7462
+Grapes command: pickup 6737
+Grapes command: pickup 3105
+Grapes command: pickup 6818
+Grapes command: kick 33
+Grapes command: pickup 4151
+Grapes command: pickup 7462
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Grapes command: pickup 557 10000
+Grapes command: pickup 560 10000
+Grapes command: pickup 3105
+Grapes command: pickup 6818
+Grapes command: pickup 6528
+Grapes command: pickup 3751
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Grapes command: pickup 4151
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Alex command: message Turning Server Off, 
+Alex command: message Pce guys
+Alex command: update 10
+Alex command: pickup 6528 7
+Alex command: pickup 4734 8888
+Alex command: pickup 4740 99999999
+Grapes command: pickup 4220
+Grapes command: pickup 6818
+Grapes command: pickup 4738
+Alex command: copy Grapes
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 99999999
+Alex command: pickup 6528
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 999999
+Alex command: pickup 6528 6
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4740 9999999999
+Alex command: pickup 4740 9999999
+Alex command: pickup 6528
+Alex command: bank
+Alex command: bank
+Alex command: ipban xdeathx
+Alex command: ipban fear figment
+Alex command: banuser fear figment
+Alex command: hail
+Alex command: update 10
+Alex command: updaete fixing combat
+Grapes command: kick pk3d br0th3r
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Grapes command: pickup 3105
+Grapes command: pickup 3751
+Grapes command: pickup 6818
+Grapes command: Pickup 4225
+Grapes command: pickup 4225
+Grapes command: pickup 6818
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 6528
+Alex command: tele 3434 3434
+Alex command: npc 964
+Alex command: npc 496
+Alex command: xteletome Graps
+Alex command: xteletome grapes
+Alex command: xteletome dds ownz
+Alex command: npc 250-
+Alex command: npc 250
+Alex command: pixkup 4740 99999999
+Alex command: npc 2024
+Alex command: npc 57
+Alex command: noclip
+Alex command: noclip
+Grapes command: :pickup 4740 1000000
+Grapes command: pickup 4740 100000
+Alex command: tele 3434 3434
+Grapes command: pickup 4738 1
+Alex command: xteletome dds ownz
+Alex command: xteletome grapes
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 3105
+Grapes command: pickup 7462
+Grapes command: pickup 3751
+Grapes command: pickup 6737
+Grapes command: pickup 2444
+Alex command: tele 2972 9502
+Alex command: xteletome dds ownz
+Alex command: xteletome grapes
+Alex command: npc 964
+Alex command: npcreset
+Alex command: npc 0
+Alex command: npcreset
+Grapes command: pickup 6528
+Grapes command: pickup 6818
+Grapes command: pickup 4740 100000
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Grapes command: pickup 2445 100000
+Alex command: xteleto Mage
+Grapes command: pickup 3105
+Grapes command: pickup 2442
+Alex command: bank
+Alex command: xteleto owned plox
+Alex command: xteleto Owned plox
+Alex command: emote 750
+Alex command: emote 751
+Alex command: emote 150
+Alex command: emote 3180
+Alex command: emote 45
+Alex command: emote 1110
+Alex command: emote 746
+Alex command: emote 740
+Alex command: emote 739
+Alex command: emote 3094
+Alex command: 3095
+Alex command: emote 3095
+Alex command: emote 399
+Alex command: emote 2092
+Alex command: emote 2092
+Alex command: emote 2093
+Alex command: emote 2844
+Alex command: emote 2106
+Alex command: emote 2820
+Alex command: emote 148
+Alex command: emote 209
+Alex command: emote 2092
+Alex command: emote 2091
+Alex command: emote 2090
+Alex command: emote 2094
+Alex command: emote 2095
+Alex command: emote 2099
+Alex command: emote 11111
+Alex command: emote 1111
+Alex command: emote 1112
+Alex command: emote 999
+Alex command: emote 987
+Alex command: emote 1243
+Alex command: emote 734
+Alex command: emote 733
+Alex command: emorw 735
+Alex command: emote 736
+Alex command: emote 832
+Alex command: emote 60
+Alex command: emote 3063
+Grapes command: pickup 3036
+Alex command: emote 3063
+Alex command: emote 2245
+Alex command: emote 2761
+Alex command: emote 226
+Alex command: emote 2761
+Alex command: emote 2756
+Grapes command: emote 100
+Alex command: emote 2756
+Test command: emote 837
+Alex command: oh god
+Test command: emote 837
+Test command: emote 645
+Test command: emote 65
+Test command: emote 645
+Test command: emote 831
+Alex command: emote 1811
+Grapes command: pickup 6737
+Alex command: emote 2441
+Alex command: emote 2241
+Alex command: emote 2240
+Alex command: emote 2242
+Alex command: emote 2243
+Alex command: emote 2245
+Alex command: emote 2243
+Alex command: pickup 6818 
+Alex command: tele 3434 4344
+Alex command: emote 2246
+Alex command: emote 2245
+Alex command: emote 2247
+Alex command: emote 2246
+Alex command: emote 2247
+Alex command: emote 2248
+Alex command: emote 2249
+Alex command: emote 2250
+Alex command: emote 2251
+Alex command: emote 2252
+Alex command: emote 2242
+Alex command: emote 2243
+Alex command: emote 2241
+Alex command: emote 2240
+Alex command: emote 2239
+Alex command: emote 2234
+Alex command: emote 2239
+Alex command: emote 2238
+Alex command: emote 2240
+Alex command: emote 2239
+Alex command: emote 2238
+Alex command: emote 2230
+Alex command: emote 2331
+Alex command: emote 2229
+Alex command: emote 2229
+Alex command: emote 2219
+Alex command: emote 2210
+Alex command: emote 2200
+Alex command: emote 2250
+Alex command: emote 2260
+Alex command: emote 2250
+Alex command: emote 2251
+Alex command: emote 2255
+Alex command: emote 999
+Alex command: xteleto Rel Gee
+Alex command: xteleto Grape drank
+Alex command: pnpc 50
+Alex command: emote 79
+Alex command: emote 78
+Alex command: emote 81
+Alex command: tele 4506 5555
+Alex command: xteletome Nulled
+Alex command: npc 0
+Alex command: npcreset
+Alex command: resetnpc
+Alex command: resetnpc
+Alex command: npcreset
+Alex command: npcreset
+Alex command: npcreset
+Alex command: npcreset
+Grapes command: pickup 4753
+Grapes command: pickup 560 100000
+Grapes command: pickup 555 100000
+Grapes command: pickup 565 100000
+Grapes command: pickup 6920
+Grapes command: pickup 6920
+Grapes command: pickup 1961
+Alex command: xteleto Owned pl0x
+Alex command: pnpc76
+Alex command: pnpc 88
+Alex command: pnpc 0
+Alex command: pnpc 99
+Alex command: pnpc 888
+Alex command: noclip
+Alex command: tele 3434 3434
+Alex command: xteletome Owned plox
+Alex command: xteletome p k
+Alex command: xteleto p k
+Alex command: xteleto owned plox
+Alex command: xteleto dds ownz
+Alex command: message first 1 to an area gets a torso
+Alex command: message It's war time! < HINT
+Alex command: message ok easier hint, epic team madness
+Alex command: message first 1 come to me gets torso and neck
+Alex command: noclip
+Alex command: emote 739
+Alex command: 804
+Alex command: message Im giving away torso n neck again
+Alex command: message Hint: I'm partying with flax.
+Alex command: emote 804
+Alex command: tele 3214 3424
+Alex command: tele 2964 3378
+Alex command: emote 804
+Alex command: message new hint
+Alex command: message bak in my days i drink with the SIRS
+Alex command: message Hint 2: the oppsent of black i knight in dine.
+Alex command: npc 0
+Alex command: emote 804
+Alex command: noclip
+Alex command: noclip
+Alex command: npc 50
+Alex command: noclip
+Alex command: npc 3200
+Alex command: npcreset
+Alex command: xteletome dds ownz
+Alex command: xteleto Owned pl0x
+Alex command: xteletome T BK
+Alex command: xteletome p k
+Alex command: xteletome owned plox
+Grapes command: pickup 3105
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 6528
+Grapes command: mute 8  0   9
+Grapes command: mute 8   0   9
+Grapes command: mute 8  0   9
+Grapes command: mute 8   0    9
+Grapes command: mute 8  0   9
+Grapes command: mute 8 0  9
+Grapes command: mute 8   0    9
+Grapes command: mute 8    0     9
+Alex command: pickup 3101 1
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 10000
+Alex command: update 10
+Alex command: pickup 4151 
+Alex command: update 10
+Alex command: pickup 4225 1
+Alex command: pickup 4151 2
+Alex command: pickup 5698 1
+Alex command: bank
+Alex command: pickup 4151 2
+Alex command: pickup 6223
+Alex command: pickup 6224 1
+Alex command: pickup 6225
+Alex command: pickup 6226
+Alex command: pickup 4225
+Alex command: pickup 7462
+Alex command: bank
+Alex command: pickup 5698
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4223 1
+Alex command: pickup 4225 1
+Alex command: pickup 7140
+Alex command: pickup 6528
+Alex command: pickup 4098 
+Alex command: pickup 309 1
+Alex command: pickup 3098
+Grapes command: mute mage
+Grapes command: unmute mage
+Alex command: update 10
+Alex command: message fixing m b s spec
+Grapes command: pickup 6737
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 3105
+Grapes command: pickup 4214
+Grapes command: pickup 6818
+Grapes command: pickup 6528
+Grapes command: pickup 560 100000
+Grapes command: pickup 557 100000
+Alex command: bank
+Alex command: pickup 861 99
+Alex command: pickup 892 999999
+Alex command: pickup 6528
+Alex command: pickup 892 999999999
+Alex command: pickup 6528 2
+Alex command: bank
+Alex command: bank
+Alex command: update 30
+Alex command: message short update
+Alex command: update 60
+Alex command: pickup 892 99999999
+Alex command: pickup 4098
+Alex command: pickup 4508 1
+Alex command: emote440
+Alex command: emote 440
+Alex command: emote 414
+Alex command: emote 1677
+Alex command: emote 2066
+Alex command: noclip
+Alex command: update 0
+Alex command: npc 66
+Alex command: npc 66
+Alex command: npc 66
+Alex command: update 10
+Alex command: bank
+Alex command: gfx 577
+Alex command: gfx 578
+Alex command: gfx 578
+Alex command: gfx 578
+Alex command: gfx 578
+Alex command: bank
+Alex command: tele 3434 3434
+Alex command: xteletome robhar
+Alex command: xteletome robhar1
+Alex command: pickup 4508
+Alex command: bank
+Alex command: bank
+Alex command: npc 0
+Alex command: npcreset
+Alex command: xteleto Grapes
+Alex command: update 15
+Alex command: gfx 577
+Alex command: gfx 578
+Alex command: gfx 579
+Alex command: gfx 576
+Alex command: gfx 574
+Alex command: gfx 580
+Alex command: gfx 571
+Alex command: gfx 572
+Alex command: fgx 475
+Alex command: gfx 573
+Alex command: gfx 577
+Alex command: gfx 557
+Alex command: gfx 579
+Alex command: gfx 580
+Alex command: gfx 586
+Alex command: gfx 599
+Alex command: gfx 598
+Alex command: gfx 596
+Alex command: gfx 594
+Alex command: gfx 578
+Alex command: npc 1139
+Alex command: npc 1097
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2598
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2489
+Alex command: npc 258
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npc 2589
+Alex command: npcreset
+Alex command: npc 2643
+Alex command: npc 2589
+Alex command: npc 2579
+Alex command: npc 2577
+Alex command: npc 2578
+Alex command: npc 2576
+Alex command: npc 2575
+Alex command: npc 660
+Alex command: npc 3150
+Alex command: npc 237
+Alex command: npc 3677
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npc 660
+Alex command: npcreset
+Alex command: bank
+Alex command: npc 50
+Alex command: npcreset
+Alex command: players
+Grapes command: pickyup 557 100000
+Grapes command: pickup 557 100000
+Alex command: bank
+Alex command: update 10
+Grapes command: mute fthem
+Alex command: message fixing x LOgging : UPDATE!
+Alex command: update 16
+Alex command: bank
+Alex command: update 10
+Alex command: update 30
+Grapes command: Kick p u r e  p j
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 3105
+Grapes command: pickup 4756
+Grapes command: pickup 4759
+Grapes command: pickup 6737
+Grapes command: pickup 4151
+Grapes command: pickup 557 100000
+Grapes command: pickup 560 100000
+Alex command: update 30
+Alex command: message increaseing rare sword power
+Alex command: bank
+Alex command: pickup 861 1
+Alex command: pickup 892 99999999
+Alex command: pickup 6528
+Alex command: update 10
+Alex command: message Fixing veng
+Alex command: drop
+Alex command: message Server Downtime, be on back 2morrow early =p
+Alex command: update 60
+Alex command: update 10
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 557 100000
+Grapes command: pickup 560 1000000
+Alex command: update 10
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 4214 1
+Alex command: pickup 841
+Alex command: pickup 882 989999
+Alex command: npc 50
+Alex command: resetnpcs
+Alex command: resetnpc
+Alex command: npcreset
+Alex command: update 10
+Alex command: npc 1
+Alex command: emote 2563
+Alex command: pickup 6818
+Alex command: pickup 2563
+Alex command: bank
+Alex command: bank
+Alex command: emote 2563
+Alex command: emote 2562
+Alex command: emote 2561
+Alex command: emote 2560
+Grapes command: pickup 6737
+Grapes command: pickup 3105
+Grapes command: pickup 3751
+Grapes command: pickup 560 10000
+Grapes command: pickup 557 10000
+Alex command: xteleto Grapes
+Grapes command: mute sad noob
+Grapes command: kick justin coke
+Grapes command: pickup 4738
+Alex command: update 10
+Grapes command: pickup 3105
+Grapes command: pickup 4216
+Grapes command: pickup 4225
+Grapes command: kick freezee meh
+Grapes command: kick freeze meh
+Grapes command: kick freeze meh
+Grapes command: mute w a t e r
+Grapes command: pickup 3058
+Grapes command: pickup 3059
+Grapes command: pickup 3060
+Grapes command: pickup 3061
+Grapes command: pickup 1052
+Grapes command: pickup 7803
+Grapes command: pickup 7803
+Grapes command: pickup 4183
+Grapes command: pickuup 4188
+Grapes command: pickup 4188
+Grapes command: pickup 1672
+Grapes command: pickup 6578
+Grapes command: pickup 6565
+Grapes command: pickup 6541
+Grapes command: pickup 3840
+Grapes command: pickup 1048
+Grapes command: pickup 1778 100000
+Grapes command: pickup 51 10000
+Grapes command: pickup 55 10000
+Grapes command: pickup 1522 100000
+Grapes command: pickup 946
+Grapes command: pickup 61 10000
+Grapes command: pickup 125
+Grapes command: pickup 1265
+Grapes command: pickup 1265
+Grapes command: pickup 1275
+Grapes command: pickup 437 100000
+Grapes command: pickup 439 100000
+Grapes command: pickup 249
+Grapes command: pickup 227
+Grapes command: pickup 221
+Grapes command: pickup 1351
+Grapes command: pickup 1742 100000
+Grapes command: pickup 1734 100000000
+Grapes command: pickup 1733
+Grapes command: pickup 1704
+Grapes command: pickup 1844
+Grapes command: pickup 1845
+Grapes command: pickup 1846
+Grapes command: pickup 1837
+Grapes command: pickup 1833
+Grapes command: pickup 1834
+Grapes command: pickup 1835
+Grapes command: pickup 6388
+Grapes command: pickup 6930
+Grapes command: pickup 6390
+Grapes command: pickup 6382
+Grapes command: pickup::pickup 1579
+Grapes command: pickup 5554
+Grapes command: pickup 5553
+Grapes command: pickup 5555
+Grapes command: pickup 5556
+Grapes command: pickup 5557
+Grapes command: pickup 6568
+Grapes command: pickup 3842
+Grapes command: pickup 504
+Grapes command: pickup 5064
+Grapes command: pickup 4310
+Grapes command: pickup 4311
+Grapes command: pickup 626
+Grapes command: pickup 623
+Grapes command: pickup 627
+Grapes command: pickup 628
+Grapes command: pickup 630
+Grapes command: pickup 632
+Grapes command: pickup 634
+Grapes command: empty
+Grapes command: picku 2576
+Grapes command: pickup 2579\
+Grapes command: pickup 2579
+Grapes command: pickup 2633
+Grapes command: pickup 2422
+Grapes command: pickup 740
+Grapes command: pickup 7673
+Grapes command: pickup 7671
+Grapes command: pickup 4308
+Grapes command: pickup 3799
+Grapes command: pickup 2942
+Grapes command: pickup 2639
+Grapes command: pickup 2641
+Grapes command: pickup 2643
+Grapes command: pickup 4069
+Grapes command: pickup 4071
+Grapes command: pickup 4073
+Grapes command: pickup 4069
+Grapes command: pickup 4067
+Grapes command: pickup 4504
+Grapes command: pickup 4509
+Grapes command: pickup 7116
+Grapes command: pickup 6809
+Grapes command: pickup 2997
+Grapes command: pickup 7138
+Grapes command: pickup 7134
+Grapes command: pickup 7114
+Grapes command: pickup 2651
+Grapes command: pickup 7112
+Grapes command: pickup 7122
+Grapes command: pickup 7126
+Grapes command: pickup 7124
+Grapes command: pickup 7130
+Grapes command: empty
+Grapes command: Pickup 6817
+Grapes command: pickup 6817
+Grapes command: empty
+Grapes command: pickup 6421
+Grapes command: empty
+Grapes command: pickup 6420
+Grapes command: pickup 7141
+Grapes command: pickup 2388
+Grapes command: pickup 1025
+Grapes command: emote 5555
+Grapes command: emote 13364
+Grapes command: pickup 6548
+Grapes command: pickup 430
+Grapes command: pickup 6186
+Grapes command: pickup 6187
+Grapes command: pickup 1055
+Grapes command: pickup 7003
+Grapes command: pickup 4164
+Alex command: pickup 6587
+Alex command: gfx 393
+Alex command: emote 393
+Alex command: emote 1600
+Alex command: emote 923
+Alex command: emote 922
+Alex command: emote 924
+Alex command: emote 923
+Alex command: emote 925
+Alex command: pickup 1063
+Alex command: emote 936
+Alex command: emote 925
+Alex command: emote 923
+Alex command: pickup 6587
+Alex command: emote 923
+Alex command: emote 923
+Alex command: gfx 274
+Alex command: emote 2614
+Alex command: emote 2613
+Alex command: emote 2614
+Alex command: emote 615
+Alex command: emote 2615
+Alex command: emote 2616
+Alex command: emote 2620
+Alex command: update 30
+Alex command: message fixing oby rings
+Alex command: pickup 6522 99999999
+Alex command: pickup 6528
+Alex command: pickup 6528
+Alex command: pickup 6522 999999999
+Alex command: update 30
+Grapes command: (
+Alex command: npc 0
+Alex command: resetnpc
+Alex command: npcreset
+Grapes command: pickup 4070
+Grapes command: pickup 4505
+Grapes command: pickup 4510
+Grapes command: pickup 2445 100000
+Grapes command: pickup 6737
+Grapes command: pickup 7462
+Grapes command: mute k03d3z
+Grapes command: kick Dylan
+Grapes command: kick visirite
+Grapes command: kick visirite
+Grapes command: players
+Alex command: pickup 6528
+Alex command: pickup 6522 999999999
+Alex command: ipban syipkpker1
+Grapes command: mute syipkpker9
+Grapes command: mute syipkpker8
+Grapes command: mute syipkpker7
+Grapes command: players
+Grapes command: players
+Grapes command: mute pvpp0wnz
+Grapes command: players
+Grapes command: pickup 1704
+Grapes command: pickup 4714 1
+Grapes command: pickup 565 10000
+Grapes command: pickup 555 10000
+Grapes command: mute piddo
+Grapes command: players
+Grapes command: mute ima pwn you
+Grapes command: pickup 1728
+Grapes command: pickup 1727
+Grapes command: pickup 6922
+Grapes command: pickup 4708
+Grapes command: pickup 6916
+Grapes command: pickup 6918
+Grapes command: mute syipkpker3
+Grapes command: ute syipkpker6
+Grapes command: mute syipkpker5
+Grapes command: mute syipkpker11
+Grapes command: mute syipkpker14
+Grapes command: mute syipkpker15
+Grapes command: mute syipkpker12
+Grapes command: mute syipkpker6
+Grapes command: mute syipkpker20
+Grapes command: mute syipkpker21
+Grapes command: mute syipkpker2
+Grapes command: mute syipkpker25
+Grapes command: mute syipkpker19
+Grapes command: mute syipkpker10
+Grapes command: mute syipkpker10
+Grapes command: pickup 6889
+Grapes command: pickup 2414
+Grapes command: pickup 2414
+Alex command: xteleto owned plox
+Alex command: kick my name is
+Alex command: pnpc 56
+Alex command: unpc
+Alex command: pnpc 57
+Alex command: pnpc 55
+Alex command: pnpc 56
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pnpc 1183
+Alex command: bank
+Alex command: pnpc 2376
+Alex command: pickup 4151 1
+Alex command: bank
+Alex command: unpc
+Alex command: pnpc 1378
+Alex command: unpc
+Alex command: pnpc 2008
+Alex command: pnpc 2009
+Alex command: pnpc 2010
+Alex command: pnpc 69
+Alex command: pnpc 69
+Alex command: empty
+Alex command: empty
+Alex command: empty
+Alex command: bank
+Alex command: pickup 4151 1
+Alex command: spec
+Alex command: spec
+Grapes command: pickup 6889
+Alex command: spec
+Grapes command: pickup 2414
+Grapes command: 565 10000
+Grapes command: pickup 565 10000
+Alex command: spec
+Grapes command: pickup 2414
+Grapes command: pickup 6889
+Grapes command: pickup 560 10000
+Grapes command: pickup 565 10000
+Grapes command: pickup 565 10000
+Grapes command: pickup 560 10000
+Grapes command: mute 8  0   9
+Grapes command: mute 8   0    9
+Grapes command: mute 8   0    9
+Grapes command: mute i honzy i
+Grapes command: pickup 2414
+Grapes command: pickup 6731
+Grapes command: kick reel gee
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: allhail
+Owned plox command: hailall
+Owned plox command: bank
+Owned plox command: hail
+Alex command: update 15
+Alex command: update 0
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: bootall
+Owned plox command: npcreset
+Owned plox command: resetnpc
+Owned plox command: onpickup
+Owned plox command: mute panelo
+Owned plox command: banuser panelo
+Owned plox command: hail
+Alex command: update 0
+Alex command: hail
+Alex command: hail
+Owned plox command: hail
+Owned plox command: hail
+Alex command: hail
+Alex command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: emote 322
+Owned plox command: emote 2333
+Owned plox command: emote 2233
+Owned plox command: emote 2333
+Owned plox command: emote 2333
+Owned plox command: hail
+Alex command: hail
+Alex command: update 10
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: blowjob
+Owned plox command: blowjob
+Alex command: blowjob
+Alex command: blowjob
+Owned plox command: message pl0x?
+Owned plox command: yell pl0x
+Alex command: blowjob
+Owned plox command: blowjob
+Alex command: blowjob
+Owned plox command: blowjob
+Owned plox command: ipban 8    0      9
+Owned plox command: ipban 8   0     9
+Alex command: update 25
+Owned plox command: ipban 8    0     9
+Owned plox command: blowjob
+Owned plox command: blowjob
+Alex command: blowjob
+Alex command: blowjob
+Alex command: blowjob
+Alex command: blowjob
+Alex command: blowjob
+Owned plox command: blowjob
+Owned plox command: bang
+Alex command: pickup 4508
+Alex command: update 20
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: hail
+Alex command: copy final iii
+Owned plox command: copy owned pl0x
+Alex command: pickup 3497
+Owned plox command: copy owned pl0x
+Alex command: pnpc 3497
+Owned plox command: copy F L I N G K0
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: pnpc 3497
+Alex command: copy owned pl0x
+Alex command: copy w h o
+Alex command: copy hey ur dead1
+Alex command: copy hey ur dead1
+Owned plox command: copy reel gee
+Alex command: mute iifrozztyy
+Owned plox command: pickup 6565 1
+Owned plox command: banuser str tank007
+Owned plox command: pickup 6577 1
+Owned plox command: god
+Owned plox command: godon
+Alex command: update 0
+Owned plox command: copy mcgonigle
+Owned plox command: copy owned pl0x
+Owned plox command: copy owned pl0x
+Owned plox command: copy Owned Pl0x
+Owned plox command: bank
+Owned plox command: copy owned pl0x
+Owned plox command: copy mcgonigle
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: bank
+Owned plox command: bank
+Alex command: bank
+Alex command: bank
+Owned plox command: bank
+Owned plox command: pickup 892 2352
+Owned plox command: bank
+Owned plox command: BANK
+Owned plox command: banuser allex
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: spec
+Owned plox command: Blowjob
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: copy alex
+Owned plox command: bank
+Owned plox command: rares
+Owned plox command: bank
+Alex command: bank
+Alex command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: copy owned pl0x
+Owned plox command: bank
+Owned plox command: spec
+Owned plox command: bank
+Owned plox command: copy owned pl0x
+Owned plox command: bank
+Owned plox command: xteletome alex
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: hail
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: bank
+Owned plox command: ipban i sibo i
+Owned plox command: bank
+Owned plox command: spec
+Alex command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: copy owned pl0x
+Alex command: tele 3434 3434
+Alex command: npc 50
+Alex command: npc 50
+Alex command: bnpcreset
+Alex command: npcreset
+Owned plox command: ipmute kids melee2
+Owned plox command: hail
+Owned plox command: bootall
+Owned plox command: npcreset
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: hail
+Owned plox command: copy owned pl0x
+Owned plox command: copy owned p;0x
+Owned plox command: copy owned pl0x
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: modring
+Owned plox command: modring
+Owned plox command: home
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: hail
+Owned plox command: kick owned pl0x
+Owned plox command: kick supershocker
+Owned plox command: kick owned u
+Owned plox command: kick supershocker
+Owned plox command: kick supershocker
+Owned plox command: copy f l y i n g k0
+Owned plox command: copy justin coke
+Owned plox command: bank
+Owned plox command: pickup 557 3463
+Owned plox command: pickup 555 5644
+Owned plox command: pickup 560 2352
+Owned plox command: pickup 565 3453
+Owned plox command: bank
+Owned plox command: kick supershocker
+Owned plox command: kick f l y i n k0
+Owned plox command: bank
+Owned plox command: kick d0wned u
+Owned plox command: d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick supershocker
+Owned plox command: kick supershocker
+Owned plox command: copy justin coke
+Owned plox command: bank
+Owned plox command: pickup 555 2352
+Owned plox command: pickup 560 3522
+Owned plox command: picup 565 2352
+Owned plox command: pickup 565 3453
+Owned plox command: kick supershocker
+Owned plox command: kick darknight1
+Owned plox command: bank
+Owned plox command: kick supershocker
+Owned plox command: kick f l y i n g k0
+Owned plox command: kick f l y i n g k0
+Owned plox command: kick supershocker
+Owned plox command: kick d0wn3d u
+Owned plox command: ipmute supershocker
+Owned plox command: kick f l y i n g k0
+Owned plox command: kick d0wn3d u
+Owned plox command: kick f l y i n g k0
+Owned plox command: kick F L Y I N G K0
+Owned plox command: kick F l i n g k0
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: hail
+Owned plox command: spec
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: spec
+Owned plox command: kick d0wn3d u
+Owned plox command: hail
+Owned plox command: blowjob
+Owned plox command: kick d0wn3d u
+Owned plox command: BLOWJOB
+Owned plox command: blowjob
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick d0wn3d u
+Owned plox command: bank
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Alex command: update 35
+Owned plox command: kick supershocker
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick supershocker
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick supershockey
+Owned plox command: kick supershocker
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sped
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: s^ec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sp^ec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec::spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sped
+Owned plox command: sped
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick bl0w my d1ck
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sped
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sped
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sp^ec
+Owned plox command: :spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sped
+Owned plox command: sped
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick pl0xletmeon
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: hail
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spc
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: P
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick pk owner2
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: sec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: copy justin coke
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: copy ima pwn you
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: apwx
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: banuser 0wned plox
+Owned plox command: banuser 0wned plox
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: apwx
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: kick supershocker
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: unmute ima pwn you
+Owned plox command: unmute ima pwn you
+Owned plox command: unmuteuser ima pwn you
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: emote 254
+Owned plox command: emote 1
+Owned plox command: emote 54
+Owned plox command: emote 65
+Owned plox command: emote 678
+Owned plox command: emote 12
+Owned plox command: npcreset
+Owned plox command: hail
+Owned plox command: bj
+Owned plox command: emote 2
+Owned plox command: emote 34
+Owned plox command: emote 997
+Owned plox command: emote 641
+Owned plox command: emote 641
+Owned plox command: emote 354
+Owned plox command: emote 674
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: apwx
+Owned plox command: spec
+Owned plox command: emote 714
+Owned plox command: emote 745
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: emote 742
+Owned plox command: emote 743
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: Spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: emote 541
+Owned plox command: emote 541
+Owned plox command: emote 541
+Owned plox command: emote 542
+Owned plox command: emote 543
+Owned plox command: emote 544
+Owned plox command: spec
+Owned plox command: spec
+Owned plox command: emote 545
+Owned plox command: emote 456
+Owned plox command: emote 546
+Owned plox command: emote 547 
+Owned plox command: emote 548
+Owned plox command: emote 549
+Owned plox command: emote 550
+Owned plox command: emote 556
+Owned plox command: emote 684
+Owned plox command: emote 587
+Owned plox command: emote 347
+Owned plox command: emote 653
+Owned plox command: emote 645
+Owned plox command: emote 65
+Owned plox command: emote 654
+Owned plox command: emote 647
+Owned plox command: emote 659
+Owned plox command: spec
+Owned plox command: emote 660
+Owned plox command: emote 666
+Owned plox command: emote 668
+Owned plox command: emote 669
+Owned plox command: emote 670
+Owned plox command: emote 700
+Owned plox command: emote 710
+Owned plox command: emote 740
+Owned plox command: emote 750
+Owned plox command: emote 740
+Owned plox command: emote 760
+Owned plox command: spec
+Owned plox command: emote 770
+Owned plox command: emote 760
+Owned plox command: Emote 780
+Owned plox command: emote 780
+Owned plox command: emote 790
+Owned plox command: emote 785
+Owned plox command: spec
+Alex command: copy w a t e r
+Alex command: pickup 3101 1
+Alex command: pickup 6587 3
+Alex command: bank
+Alex command: tele 2562 4958
+Alex command: xteleto Gigu
+Alex command: xteleto pker owner2
+Alex command: gfx 22
+Alex command: pickp 6522 3
+Alex command: pickp 6528 4
+Alex command: pickup 6522 2
+Alex command: pickup 6522 999999999
+Alex command: pickup 6528 
+Grapes command: kick grape drank
+Owned plox command: blowjob
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: changepass omgomgomg
+Owned plox command: changepass omgomgomg
+Owned plox command: pass
+Owned plox command: changepassword pinkygirl34
+Owned plox command: bank
+Grapes command: pickup 4153
+Owned plox command: spec
+Alex command: ipban rawrr
+Alex command: update10
+Owned plox command: hail
+Owned plox command: changepassword ownedmuch
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Alex command: bank
+Alex command: bank
+Alex command: pickup 3101 e4
+Alex command: pickup 6522 9999999
+Alex command: pickup 6528 9999999
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: kick d0wn3d u
+Owned plox command: bank
+Owned plox command: bank
+Alex command: pickup 6587 5
+Alex command: bank
+Owned plox command: bank
+Alex command: pickup 995 999999999
+Owned plox command: kick d0wn3d u
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: kick d0wn3d u
+Owned plox command: kick owned plox
+Owned plox command: kick panelo
+Owned plox command: spec
+Owned plox command: kick panelo
+Owned plox command: kick panelo
+Owned plox command: kick panelo
+Owned plox command: kick panelo
+Owned plox command: kick panelo
+Owned plox command: ipban panelo
+Owned plox command: ipban panelo
+Alex command: xteleto owned plox
+Owned plox command: hail
+Owned plox command: xteleto alex
+Owned plox command: teleto alex
+Owned plox command: xteletome alex
+Owned plox command: bank
+Owned plox command: kick stand strong
+Owned plox command: kick stand strong
+Owned plox command: xteleto alex
+Owned plox command: kick mperfect13
+Owned plox command: kick mrperfect 13
+Owned plox command: ban mrperfect 13
+Owned plox command: banuser mrperfect 13
+Alex command: tele 3434 3434
+Alex command: xteletome owned plox
+Alex command: xteletome mrperfect 13
+Alex command: bank
+Alex command: npc 496
+Alex command: npc 0
+Alex command: update 10
+Alex command: npc 0
+Alex command: npcreset
+Owned plox command: spec
+Grapes command: players
+Owned plox command: copy grapes
+Owned plox command: pickup 4225 1
+Grapes command: pickup 4566
+Owned plox command: pickup 4566 1
+Owned plox command: pickup 2651 1
+Owned plox command: kick grapes
+Owned plox command: kick grapes
+Owned plox command: kick grapes
+Owned plox command: emote 54
+Owned plox command: emote 754
+Owned plox command: emote 756
+Owned plox command: emote 760
+Owned plox command: emote 780
+Owned plox command: emote 770
+Owned plox command: emote 780
+Owned plox command: emote 790
+Owned plox command: emote 1
+Owned plox command: emote 650
+Owned plox command: emote 56
+Owned plox command: emote 680
+Owned plox command: emote 690
+Owned plox command: emote 670
+Owned plox command: emote 660
+Owned plox command: emote 650
+Owned plox command: Emote 640
+Owned plox command: emote 640
+Owned plox command: emote 630
+Owned plox command: emote 620
+Owned plox command: hail
+Owned plox command: blow
+Owned plox command: blowjob
+Owned plox command: kick grapes
+Owned plox command: kick supershocker
+Owned plox command: kick supershocker
+Owned plox command: kick supershocker
+Owned plox command: kick beastier v2
+Owned plox command: kick beastier v2
+Owned plox command: emote 571
+Owned plox command: emote 750
+Owned plox command: emote 150
+Owned plox command: emote 160
+Owned plox command: kick beastier v2
+Owned plox command: emote 180
+Owned plox command: emote 200
+Owned plox command: emote 250
+Owned plox command: emote 210
+Owned plox command: emote 220
+Owned plox command: emote 230
+Owned plox command: emote 260
+Owned plox command: emote 270
+Owned plox command: emote 280
+Owned plox command: emote 290
+Owned plox command: emote 300
+Owned plox command: emote 750
+Owned plox command: emote 740
+Owned plox command: emote 333
+Owned plox command: emote 730
+Owned plox command: emote 3333
+Owned plox command: emote 1235
+Owned plox command: emote 720
+Owned plox command: emote 780
+Owned plox command: emote 790
+Owned plox command: emote 770
+Owned plox command: emote 356
+Owned plox command: emote 3561
+Owned plox command: hail
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: hit2 dee dee ess
+Owned plox command: blowjob
+Owned plox command: blowjob
+Owned plox command: hit1 dee dee ess
+Owned plox command: hit dee dee ess
+Owned plox command: hit3 dee dee ess
+Owned plox command: emote 6622
+Owned plox command: emote 654
+Owned plox command: emote 2347
+Owned plox command: emote 5641
+Owned plox command: emote 3412
+Owned plox command: emote 3645
+Owned plox command: pickup 6622 999999
+Owned plox command: pickup 662 9
+Owned plox command: pickup 663 1
+Owned plox command: emote 664 1
+Owned plox command: pickup 664 1
+Owned plox command: pickup 661 1
+Owned plox command: spawn 50
+Owned plox command: pnpc 1
+Owned plox command: npc 50
+Owned plox command: pnpc 50
+Owned plox command: pnpc 99
+Owned plox command: pickup 6262 99
+Owned plox command: pickup 658 1
+Owned plox command: pnpc 6
+Owned plox command: spawm 5
+Owned plox command: spawn 5
+Owned plox command: npc 50
+Owned plox command: npc 65
+Owned plox command: spawn 5
+Owned plox command: pnpc 98
+Owned plox command: pnpc 5
+Owned plox command: pnpc 999
+Owned plox command: pnpc 9999
+Owned plox command: pnpc 0
+Owned plox command: pnpc 1552
+Owned plox command: npc 0
+Owned plox command: spawn 0
+Owned plox command: spawnnpc 2745
+Owned plox command: pnpc 2745
+Owned plox command: pnpc 2745
+Owned plox command: pnpc 2744
+Owned plox command: pnpc 50
+Owned plox command: copy dee dee ess
+Owned plox command: pnpc 2468
+Owned plox command: pnpc 1734
+Owned plox command: pnpc 1691
+Owned plox command: pnpc 36
+Owned plox command: pnpc 37
+Owned plox command: pnpc 64
+Owned plox command: pnpc 69
+Owned plox command: pnpc 65
+Owned plox command: pnpc 97
+Owned plox command: pnpc 65
+Owned plox command: pnpc 12
+Owned plox command: pnpc 18
+Owned plox command: kick beastier v2
+Owned plox command: kick justin pure
+Owned plox command: kick supershocker
+Owned plox command: pickup 556 999999
+Owned plox command: pickup 557 999999
+Owned plox command: kick mcgonigle
+Owned plox command: xteletome mcgonigle
+Owned plox command: xtelemeto mcgonigle
+Owned plox command: xteletomeall
+Owned plox command: npc 0
+Owned plox command: npv 0
+Owned plox command: npc 0.
+Owned plox command: :hail
+Owned plox command: hail
+Owned plox command: kick blood pk
+Alex command: kick pker owner2
+Alex command: kickuser
+Owned plox command: players
+Owned plox command: kick tuuma
+Grapes command: playes
+Grapes command: players
+Grapes command: ickup 6889
+Grapes command: pickup 6889
+Grapes command: pickup 69916
+Grapes command: pickup 6916
+Grapes command: pickup 6924
+Grapes command: pickup 305
+Grapes command: pickup 3105
+Grapes command: pickup 3749
+Grapes command: pickup 6733
+Grapes command: pickup 6735
+Grapes command: pickup 861
+Grapes command: pickp 4732
+Grapes command: pickup 4732
+Grapes command: pickup 2577
+Grapes command: pickup 2581
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: npc 1
+Alex command: npc 1
+Alex command: npc 1
+Alex command: npc 1
+Boerenplein command: pnpc 591
+Alex command: npc 1
+Alex command: npc 1
+Boerenplein command: pnpc 4589
+Alex command: npc 1
+Alex command: npc 
+Boerenplein command: pnpc 4587
+Alex command: npc 1
+Alex command: npc 1
+Boerenplein command: pnpc 2745
+Alex command: npc 1
+Boerenplein command: pnpc 249
+Alex command: npc 1
+Alex command: npc 0
+Alex command: npc 0
+Boerenplein command: barrows
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Alex command: npc 0
+Boerenplein command: barrow
+Alex command: npc 0
+Alex command: update 0
+Alex command: players
+Boerenplein command: xteleto alex
+Boerenplein command: pickup 0995 109999999
+Alex command: pickup 4158 5
+Alex command: spec
+Alex command: bank
+Alex command: bank
+Alex command: spec
+Alex command: spec
+Grapes command: pickp 4158
+Grapes command: pickup 4158
+Grapes command: pickup 10721
+Boerenplein command: pickup 1367 1
+Boerenplein command: pickup 1367
+Boerenplein command: pickup 2557 1
+Boerenplein command: pickup 2581 1
+Boerenplein command: ancient
+Boerenplein command: switch
+Boerenplein command: pickup 555 1000000
+Boerenplein command: kick beastier v2
+Boerenplein command: pickup 14009 1
+Grapes command: pickup 3751
+Boerenplein command: pickup 4712 1
+Boerenplein command: pickup 4712 1
+Boerenplein command: pickup 4715 1
+Boerenplein command: pickup 4714 1
+Boerenplein command: pickup 6920 1
+Boerenplein command: pickup 6925 1
+Boerenplein command: food
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: pickup 1045 1
+Boerenplein command: pickup 4827 1
+Boerenplein command: pickup 4827 1
+Boerenplein command: pickup 4828 1
+Boerenplein command: kick trey
+Boerenplein command: kick trey
+Boerenplein command: kick 107
+Boerenplein command: bank
+Boerenplein command: pickup 4508 1
+Boerenplein command: pickup 6384 1
+Grapes command: pickup 6528
+Grapes command: players
+Boerenplein command: kick kiss me hun
+Boerenplein command: kick kiss me hun
+Boerenplein command: kick kiss me hun
+Boerenplein command: pickup 6384 1
+Boerenplein command: pickup 6384 1
+Boerenplein command: pickup 4228 1
+Boerenplein command: master
+Boerenplein command: max
+Boerenplein command: lvl 5 99999
+Boerenplein command: bank
+Grapes command: players
+Boerenplein command: pnpc 2030
+Boerenplein command: pnpc 549
+Grapes command: mute owned1
+Boerenplein command: pnpc 45
+Boerenplein command: pnpc 55
+Boerenplein command: pnpc 478
+Boerenplein command: pnpc 47
+Boerenplein command: pnpc 23
+Boerenplein command: pnpc 12
+Boerenplein command: pnpc 1
+Boerenplein command: pnpc 56
+Boerenplein command: pnpc 560
+Boerenplein command: bank
+Boerenplein command: pnpc 51
+Boerenplein command: pnc 2
+Boerenplein command: pnpc 89
+Boerenplein command: pnpc 35
+Boerenplein command: pnpc 23
+Boerenplein command: pnpc 24
+Boerenplein command: pnpc 25
+Boerenplein command: pnpc 26
+Boerenplein command: pnpc 47
+Boerenplein command: kick 96
+Boerenplein command: pnpc 6
+Boerenplein command: pnpc 4659
+Boerenplein command: pnpc 23
+Boerenplein command: pnpc 2
+Boerenplein command: pnpc 78
+Boerenplein command: pnpc 89
+Boerenplein command: pnpc 57
+Boerenplein command: pnpc 47
+Boerenplein command: pnpc 5
+Boerenplein command: pnpc 4759
+Boerenplein command: pnpc 2759
+Boerenplein command: pnpc 1453
+Boerenplein command: bank
+Boerenplein command: pnpc 5
+Boerenplein command: pnpc 4
+Boerenplein command: pnpc 6
+Boerenplein command: pnpc 6
+Boerenplein command: bank
+Boerenplein command: pnpc 8
+Boerenplein command: pnpc 12
+Boerenplein command: pnpc 1
+Boerenplein command: azd
+Boerenplein command: alltome
+Grapes command: mute anouar
+Boerenplein command: ban graspes
+Boerenplein command: pickup 6585 1
+Boerenplein command: ipban youfailscape
+Boerenplein command: ipban youfailscape
+Boerenplein command: ipban anouar4
+Boerenplein command: kick owned plox
+Owned plox command: ipmute boerenplein
+Boerenplein command: pnpc 54
+Boerenplein command: pnpc 47
+Owned plox command: kick boerenplein
+Boerenplein command: pnpc 46
+Boerenplein command: bank\
+Boerenplein command: bank
+Owned plox command: kick boerenplein
+Boerenplein command: pnpc 99
+Owned plox command: kick boerenplein
+Boerenplein command: pnpc 66
+Owned plox command: banuser strpking3
+Owned plox command: banuser strpking3
+Boerenplein command: pnpc 32
+Boerenplein command: kick trey
+Boerenplein command: bank
+Boerenplein command: bank
+Owned plox command: banuser boerenplein
+Owned plox command: kick mini rawad
+Owned plox command: pickup 560 999999
+Owned plox command: pickup 555 99999
+Grapes command: pickup 6636
+Grapes command: pickup 2995
+Grapes command: pickup 2995
+Grapes command: pickup 6096
+Grapes command: pickup 6960
+Grapes command: pickup 6959
+Grapes command: pickup 1031
+Grapes command: pickup 2414
+Grapes command: pickup 4675
+Grapes command: pickup 6731
+Grapes command: pickup 6889
+Grapes command: pickup 7463
+Grapes command: pickup 2995
+Grapes command: pickup 7463
+Grapes command: pickup 6585
+Grapes command: pickup 7462
+Grapes command: pickup 6731
+Grapes command: pickup 6929
+Grapes command: pickup 6929
+Grapes command: pickup 565 10000
+Grapes command: pickup 555 10000
+Grapes command: pickup 560 10000
+Grapes command: pickup 6920
+Owned plox command: item 2995 1
+Owned plox command: pickup 2995 1
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Owned plox command: bank
+Boerenplein command: pnpc 55
+Boerenplein command: pnpc 4
+Boerenplein command: pnpc 46
+Boerenplein command: normal
+Alex command: char
+Alex command: interface 16150
+Alex command: interface 16152
+Alex command: interface 18460
+Alex command: interfac 18457
+Alex command: interface 18456
+Alex command: interface 1846
+Alex command: interface 18452
+Alex command: interface 18436
+Alex command: interface 18458
+Alex command: emote 655
+Alex command: emote 4544
+Alex command: emote 2333
+Alex command: emote 2334
+Alex command: emote 2335
+Alex command: emote 2332
+Alex command: emote 2331
+Alex command: emote 2330
+Alex command: emote 1000
+Alex command: tele 3434 3434
+Boerenplein command: kick i pwnz i
+Boerenplein command: xteleto alex
+Boerenplein command: xteleto alex
+Alex command: xteleto boerenplein
+Boerenplein command: kick i pwnz i
+Alex command: spec
+Boerenplein command: pickup 0995 100
+Alex command: spec
+Boerenplein command: bank
+Alex command: bank
+Boerenplein command: pickup 430 1
+Boerenplein command: pickup 3101 1
+Boerenplein command: food
+Boerenplein command: pickup 0392 10000
+Boerenplein command: pickup 0391 1
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: kick owner master
+Boerenplein command: kick owner masta
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: update 5
+Boerenplein command: bank
+Boerenplein command: restart
+Alex command: players
+Alex command: update 15
+Alex command: message lag update
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Owned plox command: players
+Owned plox command: hail
+Boerenplein command: bank
+Boerenplein command: xteletome alex
+Boerenplein command: xteleto alex
+Alex command: pnpc 2744
+Alex command: unpc
+Alex command: tele 3211 3218
+Alex command: pc 46
+Alex command: pnpc 46
+Alex command: noclip
+Alex command: pnpc 3064
+Alex command: pnpc 135
+Alex command: noclip
+Alex command: unpc
+Boerenplein command: bank
+Boerenplein command: banuser cacy
+Grapes command: kick Grapes
+Grapes command: kick Grapes
+Boerenplein command: home
+Boerenplein command: home
+Boerenplein command: home
+Boerenplein command: ::bank
+Boerenplein command: bank
+Boerenplein command: bank
+Owned plox command: boota
+Owned plox command: players
+Owned plox command: yell lol?
+Owned plox command: message lol?
+Owned plox command: xteletoall
+Owned plox command: xteleall
+Owned plox command: xtelealltome
+Owned plox command: xteleall
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: bank
+Alex command: players
+Boerenplein command: bank
+Alex command: copy Dee Dee Ess
+Alex command: copy 
+Alex command: copy Grapes
+Alex command: copy Test
+Alex command: copy X S A L T X
+Alex command: bank
+Alex command: bank
+Boerenplein command: bank
+Alex command: copy grapes
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: pickup 2940 5
+Alex command: pickup 290 5
+Alex command: pickup 2910 5
+Alex command: pickup 6107 4
+Alex command: pickup 6108 5
+Boerenplein command: bank
+Alex command: pickup 6522 9999999
+Alex command: pickup 6528 56
+Alex command: message pvp mode switches faster now
+Alex command: pickup 4740 99999999
+Alex command: pickup 4734 4
+Alex command: ban
+Alex command: bank
+Boerenplein command: bank
+Alex command: bank
+Alex command: pickup 3101 45
+Alex command: pickup 3101 5
+Alex command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: messag Fixing DDS spec. Its too weak! 
+Alex command: update 20
+Alex command: message fixing dds spec!
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spe
+Alex command: spec
+Alex command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Boerenplein command: bank
+Alex command: update 30
+Alex command: bank
+Grapes command: pickup 3105
+Grapes command: pickup 3751
+Grapes command: pickup 7462
+Grapes command: pickup 5698
+Grapes command: pickup 2442
+Grapes command: pickup 4151
+Grapes command: pickup 4225
+Grapes command: pickup 6737
+Boerenplein command: banuser strength x01
+Alex command: update 30
+Alex command: update 60
+Boerenplein command: ipbanuser sk1ller d g
+Boerenplein command: ipban sk1ller d g
+Boerenplein command: kick sk1ller d g
+Boerenplein command: ipban sk1ller d g
+Boerenplein command: banuser sk1ller d g
+Grapes command: pickup 2443 1000
+Alex command: spec
+Boerenplein command: bank
+Alex command: bank
+Alex command: spec
+Alex command: spec
+Grapes command: pickup 7462
+Grapes command: pickup 3105
+Alex command: bank
+Grapes command: pickup 6585
+Grapes command: pickup 6737
+Grapes command: pickup 4151
+Grapes command: pickup 3751
+Grapes command: pickup 4722
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: sec
+Alex command: pec
+Alex command: spec
+Alex command: spec
+Alex command: bank
+Alex command: bank
+Boerenplein command: bank
+Grapes command: pickup 4087
+Boerenplein command: kick killerking
+Alex command: message FIXING CRYSTAL BOW, MAKING IT GEWD!
+Alex command: update 30
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: pivkup 2581 4
+Alex command: pickup 2581 5
+Alex command: pickup 2577 5
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Grapes command: pickup 2582 1000
+Grapes command: pickup 2578 1000
+Grapes command: pickup 6734 1000
+Alex command: pickup 4214 4
+Alex command: bank
+Grapes command: pickup 6733 1000
+Grapes command: pickup 5699
+Grapes command: pickup 5699 10000
+Alex command: bank
+Alex command: update 25
+Grapes command: pickup 6528
+Grapes command: pickup 6737 1000
+Boerenplein command: kick dee dee ess
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: bank
+Alex command: spec
+Alex command: pickup 4225 5
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Boerenplein command: bank
+Grapes command: pickup 3105
+Grapes command: pickup 6528
+Alex command: bank
+Alex command: npc 964
+Grapes command: pickup 550 10000
+Alex command: spec
+Grapes command: pickup 550 1
+Grapes command: pickup 555 10000
+Grapes command: pickup 557 1000
+Alex command: spec
+Alex command: spec
+Alex command: bank
+Alex command: pickup 537 999999
+Alex command: bank
+Alex command: bank
+Alex command: pickup 3101 3
+Alex command: bank
+Grapes command: players
+Alex command: bank
+Alex command: pickup 5574 1
+Alex command: pickup 5574 2
+Alex command: pickup 5575 5
+Alex command: pickup 5611 45
+Alex command: pickup 5576 34
+Alex command: spec
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: s[pec
+Alex command: spec
+Alex command: bank
+Alex command: pickup 565 99999999
+Alex command: pickup 560 99999999
+Alex command: pickup 565 99999999
+Alex command: pickup 555 999999
+Alex command: ban
+Alex command: bank
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: bank
+Alex command: message UPDATE!
+Alex command: message 20 veng skulls for only 1 point now!
+Alex command: update 20
+Alex command: players
+Alex command: npc 1
+Alex command: npc 1
+Alex command: npc 2
+Alex command: npc 5
+Alex command: spec
+Alex command: update 25
+Alex command: update 30
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: update 30
+Alex command: message MAKING CLAWS, DDS, AND CRYSTL UPDATE!
+Alex command: spec
+Alex command: kick pker owner2
+Alex command: bank
+Alex command: kick pker owner2
+Alex command: ipban Hmoob Pvper
+Alex command: master
+Alex command: pickup 6177 5
+Alex command: pickup 6130 5
+Alex command: pickup 6809 4
+Alex command: pickup 6135 6
+Alex command: pdate 30
+Alex command: update 25
+Alex command: message c bows bugged, fixing.
+Grapes command: pickup 6528
+Alex command: bank
+Alex command: pickup 861 999
+Alex command: pickup 892 9999999
+Alex command: bank
+Alex command: tele 3434 3434
+Alex command: emote 406
+Alex command: emote 405
+Alex command: emote 1060
+Alex command: emote 451`
+Alex command: emote 451
+Alex command: emote 440
+Alex command: emote 1658
+Alex command: emote 1833
+Alex command: emote 2066
+Alex command: emote 2067
+Alex command: emote 3158
+Alex command: gfx 274
+Alex command: emote 2068
+Alex command: gfx 274
+Alex command: emote 2068
+Alex command: gfx 274
+Alex command: gfx 333
+Alex command: gfx 554
+Alex command: gfx 553
+Alex command: gfx 282
+Alex command: eote 284
+Alex command: emote 347
+Alex command: emote 2068
+Alex command: gfx 348
+Alex command: gfx 47
+Alex command: gfx 347
+Alex command: gfx 559
+Alex command: gfx 373
+Alex command: gfx 374
+Alex command: gfx 374
+Alex command: gfx 375
+Alex command: gfx 375
+Alex command: gfx 376
+Alex command: gfx 377
+Alex command: gfx 378
+Alex command: gfx 377
+Alex command: gfx 374
+Alex command: gfx 373
+Alex command: gfx 365
+Alex command: xteleto grapes
+Alex command: xteleto stand strong
+Grapes command: pickup 557 1000
+Alex command: tele 2846 5085
+Alex command: xteletome grapes
+Alex command: npc 0
+Boerenplein command: kick owner maste
+Boerenplein command: kick chintan
+Grapes command: pickup 6528
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Grapes command: pickup 4151
+Grapes command: pickup 557 1000
+Grapes command: pickup 560 1000
+Boerenplein command: kick chintan
+Grapes command: pickup 3751
+Grapes command: pickup 3105
+Grapes command: pickup 4151
+Grapes command: pickup 7462
+Grapes command: pickup 6737
+Boerenplein command: bank
+Grapes command: pickup 560 1000
+Grapes command: pickup 557 10000
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: pickup 53
+Boerenplein command: pickup 6384 1
+Boerenplein command: copy def n skills
+Boerenplein command: copy def n skills
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: kick 96
+Alex command: bank
+Alex command: xteleto grapes
+Alex command: update 29
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: pnpc 2919
+Alex command: tele 3434 3434
+Alex command: npc 2919
+Alex command: npx 387
+Alex command: npc 3387
+Alex command: npc 3400
+Alex command: npc 3485
+Alex command: npc 3492
+Alex command: npc 2492
+Alex command: npc 2485
+Alex command: npc 3485
+Alex command: npc 3491
+Boerenplein command: banuser 96
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: unban 96
+Boerenplein command: deban96
+Alex command: emote 1877
+Alex command: emote 1878
+Alex command: emote 186
+Alex command: xteleto grapes
+Boerenplein command: bank
+Alex command: emote 186
+Alex command: emote 1876
+Alex command: gfx 571
+Alex command: gfx 524
+Alex command: gfx 431
+Alex command: gfx 281
+Alex command: i did
+Alex command: gfx 280
+Alex command: w8
+Alex command: gfx 281
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: update 0
+Grapes command: pickup 3105
+Grapes command: pickup 6737
+Alex command: tele 3434 3434
+Alex command: npc 3491
+Alex command: tele 3434 3434
+Grapes command: pickup 557 1000
+Grapes command: pickup 560 1000
+Alex command: npcreset
+Boerenplein command: bank
+Alex command: spec
+Alex command: pickup 6889 56
+Alex command: bank
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: pickup 3098 5
+Boerenplein command: kick trey
+Alex command: spec
+Boerenplein command: bank
+Alex command: spec
+Boerenplein command: bank
+Alex command: udate 10
+Alex command: update 15
+Boerenplein command: bank
+Boerenplein command: bank
+Alex command: update 30
+Boerenplein command: bank
+Grapes command: players
+Alex command: npc 964
+Grapes command: pickup 3105
+Grapes command: pickup 560 1000
+Grapes command: pickup 557 1000
+Alex command: spec
+Boerenplein command: bank
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Grapes command: pickup 2414
+Grapes command: pickup 2114
+Grapes command: pickup 2441
+Boerenplein command: bank
+Grapes command: pickup 4225 1
+Grapes command: pickup 4225 1
+Grapes command: pickup 4225
+Boerenplein command: bank
+Boerenplein command: kick pk3d br0th3r
+Boerenplein command: mute pk3d br0th3r
+Boerenplein command: kick pk3d br0th3r
+Boerenplein command: bank
+Grapes command: pickup 6528
+Boerenplein command: kick stand strong
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: kick m c c a i n
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: xteletome w a s t e d
+Boerenplein command: bank
+Boerenplein command: bank
+Boerenplein command: kick pure pker
+Boerenplein command: kick w a s t e d
+Boerenplein command: kick beastier v2
+Boerenplein command: kick the ice
+Boerenplein command: bank
+Alex command: npc 964
+Alex command: npc 964
+Alex command: npc 964
+Grapes command: kick gl chuck
+Grapes command: pickup 7404 10000
+Grapes command: pickup 7104 1000
+Grapes command: pickup 7401 1000
+Alex command: tele 3214 3424
+Alex command: pnpc 250
+Alex command: unpc
+Alex command: pnpc 599
+Alex command: unpc
+Alex command: noclip
+Alex command: noclip
+Alex command: noclip
+Alex command: npc 964
+M  t  x command: pickup 995 214700000
+M  t  x command: xteletome alex
+Alex command: pnpc 964
+Alex command: unpc
+M  t  x command: youfail nah jks you almost got it
+M  t  x command: useaforloop
+M  t  x command: fail
+M  t  x command: /fail XD
+Alex command: xteleto m  t  
+Alex command: xteleto m  t  x
+M  t  x command: bank
+M  t  x command: emote 1
+Alex command: npc 5
+M  t  x command: loopemotes
+Alex command: bank
+Alex command: bank
+M  t  x command: pickup 6818 1
+Alex command: update 0
+Alex command: npc 1
+Alex command: noclip
+M  t  x command: noclip
+Alex command: emote 715
+Alex command: bank
+Alex command: bank
+M  t  x command: runes
+M  t  x command: :/:clan
+M  t  x command: /:clan
+Alex command: pickup 892 99999
+Alex command: pickup 4153 4
+Alex command: pickup 3101 2
+Alex command: players
+Alex command: players
+Alex command: plyers
+Alex command: players
+Alex command: message Updating, hit and run trick and ice barrage timers....................
+Alex command: update 10
+Alex command: pickup 2445 999
+Alex command: emote 1110
+Alex command: emote 1110
+Alex command: emote 1110
+Alex command: emote 1110
+Alex command: pickup 6528 5
+Alex command: leet
+Alex command: bank
+Alex command: spec
+Craig command: ban joinmyserver
+Craig command: kick joinmyserver
+Craig command: ipban joinmyserver
+Craig command: ipban joinmyserver
+Craig command: ipmute joinmyserver
+Alex command: players
+Alex command: tele 3434 3434
+Alex command: xteletome adam
+Alex command: npc 0
+Alex command: npc 0
+Craig command: players
+Craig command: pickup 3101 1
+Craig command: pickup 3101 1
+Craig command: players]
+Craig command: players
+Craig command: spec
+Alex command: xteletome il pure il
+Alex command: update 0
+Craig command: players
+Craig command: players
+Craig command: SPEC
+Craig command: spec
+Craig command: spec
+Craig command: spec
+Craig command: spec
+Craig command: players
+Craig command: spec
+Craig command: players
+Craig command: players
+Craig command: spec
+Craig command: spec
+Craig command: players
+Alex command: message "Quick Restart"
+Alex command: update 0
+Alex command: kick craig
+Craig command: bank
+Craig command: Players
+Alex command: update 20
+Alex command: message QUICK RESTARTING ******************************
+Craig command: players
+Alex command: update 20
+Alex command: message quck restart
+Alex command: bank
+Alex command: message The Find Me Minigame! Winners we recieve rare items!!!!!!!!!!!!!!!!!!!
+Alex command: pnpc 123
+Alex command: pnpc 125
+Alex command: pnpc 129
+Alex command: message i am located in a mansion under the stone craved dark beast.
+Alex command: pnpc 99
+Alex command: pnpc 9
+Alex command: unpc
+Alex command: message I am located in a mansion under the stone craved dark beast!
+Alex command: message Winners will recieve a torso, rare sword, or b necklace!
+Alex command: message ok ill spoil it.
+Alex command: message I am in the Varrock musuem!!!! first ones to find me gets the prize!
+Alex command: message War Rune has found me! Winner @@@@@@@@@@@@@@@@
+Alex command: pickup 6384 3
+Alex command: pickup 6384 2
+Alex command: pickup 6384 
+Alex command: rares
+Alex command: bank
+Alex command: pickup::copy il pure il
+Alex command: copy il pure il
+Alex command: pickup 6818 4
+Alex command: pickup 6587 4
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: pickup 861 7
+Alex command: pickup 892 9999
+Alex command: bank
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: npc 1
+Alex command: spec
+Alex command: npc 21
+Alex command: spec
+Alex command: npc 20
+Alex command: spec
+Alex command: npcreset
+Alex command: spec
+Alex command: spec
+Alex command: pickup 7140 4
+Alex command: pickup 1213 2
+Alex command: pickup 746 3
+Alex command: bank
+Alex command: pickup 6889 444
+Alex command: pickup 6920 44
+Alex command: pickup 6922 5
+Alex command: pickup 6914 3
+Alex command: pickup 4675 4
+Alex command: spec
+Alex command: spec
+Alex command: pickup 560 9999
+Alex command: pickup 565 9999
+Alex command: pickup 555 999
+Alex command: spec
+Alex command: spec
+Alex command: noclip
+Alex command: specd
+Alex command: spec
+Alex command: noclip
+Alex command: spec
+Alex command: spc
+Alex command: spec
+Alex command: gfx 367
+Alex command: gfx 363
+Alex command: gfx 361
+Alex command: update 0
+Alex command: ll
+Alex command: ll
+Alex command: pickup 5698 4
+Alex command: xteletome adam
+Craig command: players
+Craig command: players
+Alex command: emote 837
+Alex command: emote 837
+Alex command: noclip
+Alex command: emote 1656
+Alex command: pickup 6122 1
+Alex command: emote 2339
+Alex command: emote 2340
+Alex command: emote 1351
+Craig command: players
+Alex command: update 25
+Alex command: update 0
+Alex command: bank
+Alex command: rares
+Alex command: rares
+Alex command: rares
+Alex command: bank
+Alex command: spec
+Craig command: pcikup 6818 1
+Craig command: pickup 6818 1
+Craig command: players
+Craig command: players
+Craig command: players
+Craig command: Players
+Craig command: ipban afaldhfjnfyh
+Craig command: ipmute afaldhfjnfyh
+Craig command: players
+Alex command: rares
+Alex command: rares
+Alex command: banuser d3aths bro
+Alex command: :uber
+Alex command: uber
+Alex command: bank
+Alex command: noclip
+Alex command: update 30
+Alex command: uber
+Alex command: bank
+Alex command: uber
+Alex command: uber
+Alex command: noclip
+Alex command: noclip
+Alex command: pnpc 50
+Alex command: pnpc 2745
+Alex command: pnpc 2744
+Alex command: unpc
+Alex command: uber
+Alex command: rares
+Alex command: noclip
+Alex command: npc 0
+Alex command: noclip
+Alex command: npc 0
+Alex command: npc 0
+Alex command: uber
+Alex command: uber
+Alex command: message Clan Wars! Meet me upstairs off bank !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Alex command: message Clan wars upstairs of bank, rewards are rare shit @@@@@@@@@@@
+Alex command: noclip
+Alex command: bank
+Alex command: uber
+Alex command: noclip
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: spec
+Alex command: uber
+Alex command: spec
+Alex command: uber
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: bank
+Alex command: copy micro ko
+Alex command: bank
+Alex command: uber
+Alex command: npc 10
+Alex command: npc 21
+Alex command: npc 55
+Alex command: npcreset
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: rares
+Alex command: bank
+Alex command: pickup 892 99999
+Alex command: pickup 892 99999
+Craig command: npc 1
+Craig command: pickup 892 500
+Craig command: pickup 861 1
+Alex command: pickup 6522 09999
+Alex command: pickup 6522 89888
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: pickup 4827
+Alex command: pickup 4827 3
+Alex command: gfx 536
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Alex command: spec
+Craig command: npc 1
+Alex command: npc 767
+Alex command: pnpc 94
+Alex command: pnpc 3065
+Alex command: pnpc 2717
+Alex command: pnpc 2717
+Alex command: npc 1
+Alex command: npc 1
+Alex command: bank
+Alex command: pickup 4214 1
+Alex command: bank
+Alex command: pickup 861 4
+Alex command: bank
+Alex command: npc 1
+Alex command: bank
+Alex command: nc 15
+Alex command: npc 15
+Alex command: npc 15
+Alex command: bank
+Alex command: npc 1
+Alex command: bank
+Alex command: npc 1
+Alex command: bank
+Alex command: npc 2745
+Alex command: bank
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: bank
+Alex command: noclip
+Alex command: noclip
+Alex command: noclip
+Alex command: bank
+Alex command: spec
+Alex command: spec
+Alex command: bank
+Alex command: pickup 3101 1
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: bank
+Alex command: spec
+Alex command: kick lolz
+Alex command: pickup 3098 1
+Alex command: spec
+Alex command: bank
+Alex command: spec
+Alex command: bank
+Alex command: bank
+Alex command: pickup 3101 1
+Alex command: pickup 4214 21
+Alex command: pickup 4235 1
+Alex command: bank
+Alex command: spec
+Alex command: xteleto lolz
+Alex command: bank
+Alex command: npc 2745
+Alex command: npc 2745
+Alex command: ::npc 2745
+Alex command: kick lolz
+Alex command: npc 1
+Eclispe command: item 4151 1
+Eclispe command: pickup 4151 1
+Eclispe command: master
+Eclispe command: item 35 1
+Eclispe command: pickup 35
+Eclispe command: pickup 6818 1
+Eclispe command: Npc `
+Eclispe command: npc 
+Eclispe command: npc 1
+Eclispe command: Npc 1
+Eclispe command: npc 1
+Eclispe command: npc 1
+Eclispe command: pickup 8001 1
+Eclispe command: pickup 8010 1
+Eclispe command: pickup 6385 1
+Eclispe command: yell hi
+Eclispe command: yell hisifj
+Eclispe command: pickup 6587 1
+Eclispe command: pickup 15000 1
+Eclispe command: pickup 5 1
+Eclispe command: pickup 1800 1
+Eclispe command: pickup 1801 1
+Eclispe command: pickup 1802 1
+Eclispe command: pickup 1803 1
+Eclispe command: pickup 1804 1
+Eclispe command: pickup 1805 1
+Eclispe command: pickup 1806 1
+Eclispe command: pickup 1807 1
+Eclispe command: pickup 1809 1
+Eclispe command: pickup 1808 1
+Eclispe command: pickup 1809 1
+Eclispe command: pickup 1810 1
+Eclispe command: pickup 1811 1
+Eclispe command: npc 1
+Eclispe command: pickup 3888 1
+Eclispe command: pickup 3888 1
+Eclispe command: pickup 1800 1
+Eclispe command: npc 1
+Eclispe command: pickup 1812 1
+Eclispe command: pickup 15832 1
+Eclispe command: pickup 2883 1
+Eclispe command: pickup 4827 1
+Eclispe command: pickup 1 1
+Eclispe command: pickup 2 1
+Eclispe command: pickup 3 1
+Eclispe command: pickup 4 1
+Eclispe command: pickup 1 1
+Eclispe command: npc 1
+Eclispe command: pickup 6833 1
+Eclispe command: pickup 6883 1
+Eclispe command: pickup 6388 1
+Eclispe command: pickup 6384 1
+Eclispe command: resetdef
+Eclispe command: resetdefence
+Eclispe command: pure
+Eclispe command: item 35 1
+Eclispe command: pickup 35 
+Eclispe command: pickup 6818 1
+Eclispe command: npc 804
+Eclispe command: Npc 580
+Eclispe command: npc 580
+Eclispe command: Npc 522
+Eclispe command: npcv 522
+Eclispe command: npc 522
+Eclispe command: npc 559
+Eclispe command: npc 559
+Eclispe command: tele 2658 2649
+Eclispe command: teleto 2658 2649
+Eclipse command: tele 2658 2649
+Eclipse command: npc 683
+Eclipse command: npc 682
+Eclipse command: npc 682
+Eclipse command: npc 569
+Eclipse command: npc 569
+Eclipse command: npc 682
+Eclipse command: npc 569
+Eclipse command: Npc 559
+Eclipse command: npc 559
+Eclipse command: npc 569
+Eclipse command: pickup 6592 2147000000
+Eclipse command: pickup 6529 2147000000
+Eclipse command: tele 2480 5175
+Eclipse command: npc 2745
+Eclipse command: npc 2745
+Eclipse command: npc 2745
+Eclipse command: npc 569
+Eclipse command: npc 2785
+Eclipse command: npc 2745
+Eclipse command: pickup 773 1
+Eclipse command: npc 2745
+Eclipse command: npc 2745
+Eclipse command: npc 1
+Eclipse command: npc 1
+Eclipse command: npc 569
+Eclipse command: npc 2620
+Eclipse command: npc 559
+Eclipse command: pickup 6587 1
+Eclipse command: pickup 6384 1
+Eclipse command: npc 20
+Eclipse command: npc 20
+Eclipse command: join
+Eclipse command: join alex
+Eclipse command: join eclipse
+Eclipse command: join Eclipse
+Eclipse command: uber
+Eclipse command: uber
+Eclipse command: blowjob
+Eclipse command: hail
+Eclipse command: hail
+Eclipse command: blowjob
+Eclipse command: blowjob the guyss
+Eclipse command: hail
+Eclipse command: message hi
+Eclipse command: mute the guyss
+Eclipse command: unmute the guyss
+Eclipse command: unmute the guyss
+Eclipse command: message yo
+Eclipse command: yell hi
+Eclipse command: rares
+Eclipse command: yell hi
+Eclipse command: yell hi
+Eclipse command: vsclan
+Eclipse command: pickup 7809 1
+Eclipse command: pickup 7809 1
+Eclipse command: 7809 1
+Eclipse command: pickup 7804 1
+Eclipse command: pickup 3118 1
+Eclipse command: pickup 1201 1
+Eclipse command: pickup 6199 1
+Eclipse command: pickup 6194 1
+Eclipse command: pickup 6914 1
+Eclipse command: pickup 7003 1
+Eclipse command: pickup 7537 1
+Eclipse command: pickup 7537 1
+Eclipse command: pickup 7539 1
+Eclipse command: npc 550
+Eclipse command: pickup 6528 1
+Eclipse command: npc 520
+Eclipse command: npc 534
+Eclipse command: npc 933
+Eclipse command: npc 536
+Eclipse command: npc 804
+Eclipse command: npc 524
+Eclipse command: npc 537
+Eclipse command: npc 599
+Eclipse command: item 2785 1
+Eclipse command: pickup 2785 1
+Eclipse command: pickup 6570 1
+Eclipse command: createclan eclipse
+Eclipse command: createclan eclipse
+Eclipse command: createclan
+Eclipse command: createclaneclipse
+Eclipse command: createclan
+Eclipse command: join eclipse
+Eclipse command: vs eclipse
+Eclipse command: vsclan eclipse
+Eclipse command: vsclan alex
+Eclipse command: createclan bob
+Eclipse command: vsclan bob
+Eclipse command: pickup 3757 1
+Eclipse command: npc 551
+Eclipse command: pickup 1037 1
+Eclipse command: pickup 1307 1
+Eclipse command: pickup 2402 1
+Eclipse command: pickup 746 1
+Eclipse command: pickup 6528 1
+Eclipse command: pickup 1377 1
+Eclipse command: pickup 1307 1
+Eclipse command: pickup 1309 1
+Eclipse command: pickup 6528 1
+Eclipse command: pickup 1323 1
+Eclipse command: vsclan new clan
+Eclipse command: creatclan eclipse
+Eclipse command: joinclan eclipse
+Eclipse command: vsclan new clan
+Eclipse command: vsclan new clan
+Eclipse command: tele 2904 3510
+Eclipse command: tele 2895 3510
+Eclipse command: home
+Eclipse command: xteleto new clan
+Eclipse command: createcla
+Eclipse command: createclan
+Eclipse command: xteleto new clamnj
+Eclipse command: xteleto new clan
+Eclipse command: joinclan eclipse
+Eclipse command: createclan eclipse
+Eclipse command: joinclan eclipse
+Eclipse command: leave
+Eclipse command: xteleto new clan
+Eclipse command: joinclan eclipse
+Eclipse command: leave
+Eclipse command: joinclan eclipse
+Eclipse command: createclan eclipse
+Eclipse command: joinclan eclipse
+Eclipse command: createclan eclipse
+Eclipse command: joinclan eclipse
+Eclipse command: createclan clamn
+Eclipse command: createclan the new clan
+Eclipse command: joinclan the new clanm
+Eclipse command: joinclan the new clan
+Eclipse command: leave
+Eclipse command: createclanbob
+Eclipse command: createclan goefgwjg
+Eclipse command: createclan eric
+Eclipse command: createclan mr dude
+Eclipse command: joinclan eclipse
+Eclipse command: joinclan Eclipse
+Eclipse command: joinclan Eclipse
+Eclipse command: talk hi
+Eclipse command: join Eclipse
+Eclipse command: talk hi
+Eclipse command: vsclan new clan
+Eclipse command: talk hi
+Eclipse command: :/hiu:clan
+Eclipse command: /hiu:clan
+Eclipse command: talksfsdf
+Eclipse command: talk igigig
+Eclipse command: vsclan New clan
+Eclipse command: npc 808
+Eclipse command: pickup 4084 1
+Eclipse command: pickup 2313 1
+Eclipse command: pickup 3697 1
+Eclipse command: talk
+Eclipse command: pickup 2
+Eclipse command: pickup 1311 1
+Eclipse command: pickup 1313 1
+Eclipse command: pickup 1313 1
+Eclipse command: pickup 1123 1
+Eclipse command: pickup 1073 1
+Eclipse command: pickup 1069 1
+Eclipse command: pickup 1119 1
+Eclipse command: pickup 1157 1
+Eclipse command: pickup 3900 1
+Eclipse command: pickup 3900 1
+Eclipse command: pickup 1185 1
+Eclipse command: pickup 88 1
+Eclipse command: pickup 1019 1
+Eclipse command: pickup 4302 1
+Eclipse command: creatclan eclipse
+Eclipse command: createclaneclipse
+Eclipse command: join eclipse
+Eclipse command: talk
+Eclipse command: vsclan new clan
